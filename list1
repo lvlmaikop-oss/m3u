@@ -1,0 +1,495 @@
+#EXTINF:-1 tvg-id="Первый канал HD" group-title="HD" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Первый%20канал%20HD.png",Первый канал HD
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/204/index.m3u8
+#EXTINF:-1 tvg-id="Россия 1 FHD" group-title="HD Orig" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Россия%201%20FHD.png",Россия 1 FHD
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/2409/index.m3u8
+#EXTINF:-1 tvg-id="НТВ HD orig" group-title="HD Orig" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/НТВ%20HD%20orig.png",НТВ HD 
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/9028/index.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="HD Orig" tvg-id="5kanal-ru", Пятый канал
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
+#EXTINF:-1 tvg-rec="3",РЕН ТВ
+#EXTGRP:HD Orig
+http://7a592101.edemist.com/iptv/Y8ZESSQLYDQMZV/9205/index.m3u8
+#EXTINF:-1 tvg-id="СТС HD orig" group-title="HD Orig" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/СТС%20HD%20orig.png",СТС HD
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/9000/index.m3u8
+
+#EXTINF:-1 tvg-id="ТНТ FHD" group-title="HD Orig" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/ТНТ%20FHD.png",ТНТ FHD
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/2417/index.m3u8
+#EXTINF:-1 tvg-id="ТНТ4 orig" group-title="HD Orig" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/ТНТ4%20orig.png",ТНТ4 
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/9208/index.m3u8
+#EXTINF:-1 tvg-id="Перец International" group-title="развлекательные" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Перец%20International.png",Перец
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/15227/index.m3u8
+#EXTINF:1 tvg-rec="3",Че!
+#EXTGRP:HD Orig
+http://7a592101.edemist.com/iptv/Y8ZESSQLYDQMZV/9101/index.m3u8
+#EXTINF:-1 tvg-id="Пятница! HD" group-title="HD" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Пятница!%20HD.png",Пятница! HD
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/5031/index.m3u8
+#EXTINF:-1 tvg-id="Суббота" group-title="развлекательные" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Суббота.png",Суббота
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/826/index.m3u8
+#EXTINF:-1 tvg-id="Домашний orig" group-title="HD Orig" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Домашний%20orig.png",Домашний
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/9104/index.m3u8
+
+
+#EXTINF:-1 tvg-rec="3",ТВ-3 
+#EXTGRP:HD 
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/5033/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="Русский роман HD" group-title="HD" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Русский%20роман%20HD.png",Русский роман HD
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/2076/index.m3u8
+EXTINF:-1 tvg-id="Ю ТВ orig" group-title="HD Orig" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Ю%20ТВ%20orig.png",Ю ТВ orig
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/9107/index.m3u8
+#EXTINF:-1 tvg-id="Мир orig" group-title="HD Orig" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Мир%20orig.png",Мир orig
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/9211/index.m3u8
+#EXTINF:0 tvg-rec="7",НСТ
+#EXTGRP:кино
+http://7a592101.edemist.com/iptv/Y8ZESSQLYDQMZV/726/index.m3u8
+#EXTINF:-1 tvg-id="НТВ Хит HD" group-title="HD" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/НТВ%20Хит%20HD.png",НТВ Хит HD
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/16062/index.m3u8
+#EXTINF:-1 tvg-id="НТВ Сериал" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/НТВ%20Сериал.png",НТВ Сериал
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/744/index.m3u8
+#EXTINF:-1 tvg-id="НТВ Стиль" group-title="развлекательные" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/НТВ%20Стиль.png",НТВ Стиль
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/745/index.m3u8
+#EXTINF:-1 tvg-id="НТВ Право " group-title="HD Orig" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/НТВ%20Право%20orig.png",НТВ Право
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/9327/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="Kinoshka Christmas HD" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Kinoshka%20Christmas%20HD.png",Kinoshka Christmas HD
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/16092/index.m3u8
+#EXTINF:-1 tvg-id="VF Владимир Высоцкий" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/VF%20Владимир%20Высоцкий.png",VF Владимир Высоцкий
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/10066/index.m3u8
+#EXTINF:-1 tvg-id="VF Счастливы Вместе" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/VF%20Счастливы%20Вместе.png",VF Счастливы Вместе
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/9242/index.m3u8
+#EXTINF:-1 tvg-id="VF Два с половиной человека" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/VF%20Два%20с%20половиной%20человека.png",VF Два с половиной человека
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/10062/index.m3u8
+#EXTINF:-1 tvg-id="VF Бесстыжие" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/VF%20Бесстыжие.png",VF Бесстыжие
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/10075/index.m3u8
+#EXTINF:-1 tvg-id="VF Ёлки" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/VF%20Ёлки.png",VF Ёлки
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/14222/index.m3u8
+#EXTINF:-1 tvg-id="VF New Year" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/VF%20New%20Year.png",VF New Year
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/15522/index.m3u8
+#EXTINF:-1 tvg-id="VF С новым годом!" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/VF%20С%20новым%20годом!.png",VF С новым годом!
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/15524/index.m3u8
+#EXTINF:-1 tvg-id="VF Новогодний" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/VF%20Новогодний.png",VF Новогодний
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/17035/index.m3u8
+#EXTINF:-1 tvg-id="VF Карточный домик" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/VF%20Карточный%20домик.png",VF Карточный домик
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/14221/index.m3u8
+#EXTINF:-1 tvg-id="VF Гарри Поттер" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/VF%20Гарри%20Поттер.png",VF Гарри Поттер
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/14230/index.m3u8
+#EXTINF:-1 tvg-id="VF Секс в большом городе" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/VF%20Секс%20в%20большом%20городе.png",VF Секс в большом городе
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/14224/index.m3u8
+#EXTINF:-1 tvg-id="VF Теория большого взрыва" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/VF%20Теория%20большого%20взрыва.png",VF Теория большого взрыва
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/15009/index.m3u8
+#EXTINF:-1 tvg-id="VF Disney Movie" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/VF%20Disney%20Movie.png",VF Disney Movie
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/15010/index.m3u8
+#EXTINF:-1 tvg-id="TV Rus" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/TV%20Rus.png",TV Rus
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/14022/index.m3u8
+#EXTINF:-1 tvg-id="Fox" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Fox.png",Fox
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/6516/index.m3u8
+#EXTINF:-1 tvg-id="Fox Life" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Fox%20Life.png",Fox Life
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/9232/index.m3u8
+#EXTINF:-1 tvg-id="Viju TV1000 Русское" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Viju%20TV1000%20Русское.png",Viju TV1000 Русское
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/101/index.m3u8
+#EXTINF:-1 tvg-id="FOX COMEDY PL" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/FOX%20COMEDY%20PL.png",FOX COMEDY PL
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/6107/index.m3u8
+#EXTINF:-1 tvg-id="СТС Love" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/СТС%20Love.png",СТС Love
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/103/index.m3u8
+#EXTINF:-1 tvg-id=".sci-fi" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/.sci-fi.png",.sci-fi
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/110/index.m3u8
+#EXTINF:-1 tvg-id="Киномикс" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Киномикс.png",Киномикс
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/509/index.m3u8
+#EXTINF:-1 tvg-id="Киносемья" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Киносемья.png",Киносемья
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/125/index.m3u8
+#EXTINF:-1 tvg-id="Родное Кино" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Родное%20Кино.png",Родное Кино
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/126/index.m3u8
+#EXTINF:-1 tvg-id="Viju TV1000 Action" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Viju%20TV1000%20Action.png",Viju TV1000 Action
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/131/index.m3u8
+#EXTINF:-1 tvg-id="Кинохит" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Кинохит.png",Кинохит
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/516/index.m3u8
+#EXTINF:-1 tvg-id="Amedia 2" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Amedia%202.png",Amedia 2
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/510/index.m3u8
+#EXTINF:-1 tvg-id="Наше Новое Кино" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Наше%20Новое%20Кино.png",Наше Новое Кино
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/517/index.m3u8
+#EXTINF:-1 tvg-id="TV XXI" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/TV%20XXI.png",TV XXI
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/525/index.m3u8
+#EXTINF:-1 tvg-id="Кинокомедия" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Кинокомедия.png",Кинокомедия
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/145/index.m3u8
+#EXTINF:-1 tvg-id="Индийское Кино" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Индийское%20Кино.png",Индийское Кино
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/146/index.m3u8
+#EXTINF:-1 tvg-id="Киносерия" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Киносерия.png",Киносерия
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/148/index.m3u8
+#EXTINF:-1 tvg-id="Русский Иллюзион" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Русский%20Иллюзион.png",Русский Иллюзион
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/547/index.m3u8
+#EXTINF:-1 tvg-id="Еврокино" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Еврокино.png",Еврокино
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/549/index.m3u8
+#EXTINF:-1 tvg-id="Кинеко" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Кинеко.png",Кинеко
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/550/index.m3u8
+#EXTINF:-1 tvg-id="Сапфир" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Сапфир.png",Сапфир
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/553/index.m3u8
+#EXTINF:-1 tvg-id="Дом Кино" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Дом%20Кино.png",Дом Кино
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/154/index.m3u8
+#EXTINF:-1 tvg-id="Amedia 1" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Amedia%201.png",Amedia 1
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/554/index.m3u8
+#EXTINF:-1 tvg-id="Amedia Premium" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Amedia%20Premium.png",Amedia Premium
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/555/index.m3u8
+#EXTINF:-1 tvg-id="Amedia Hit" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Amedia%20Hit.png",Amedia Hit
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/556/index.m3u8
+#EXTINF:-1 tvg-id="Мужское Кино" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Мужское%20Кино.png",Мужское Кино
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/164/index.m3u8
+#EXTINF:-1 tvg-id="Hollywood" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Hollywood.png",Hollywood
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/557/index.m3u8
+#EXTINF:-1 tvg-id=".red" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/.red.png",.red
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/559/index.m3u8
+#EXTINF:-1 tvg-id="2x2" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/2x2.png",2x2
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/702/index.m3u8
+#EXTINF:-1 tvg-id=".black" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/.black.png",.black
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/708/index.m3u8
+#EXTINF:-1 tvg-id="Русский бестселлер" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Русский%20бестселлер.png",Русский бестселлер
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/905/index.m3u8
+#EXTINF:-1 tvg-id="Русский роман" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Русский%20роман.png",Русский роман
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/906/index.m3u8
+#EXTINF:-1 tvg-id="Русский детектив" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Русский%20детектив.png",Русский детектив
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/907/index.m3u8
+#EXTINF:-1 tvg-id="Любимое Кино" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Любимое%20Кино.png",Любимое Кино
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/722/index.m3u8
+#EXTINF:-1 tvg-id="Киносвидание" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Киносвидание.png",Киносвидание
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/728/index.m3u8
+#EXTINF:-1 tvg-id="Кино ТВ" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Кино%20ТВ.png",Кино ТВ
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/732/index.m3u8
+#EXTINF:-1 tvg-id="Русская Комедия" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Русская%20Комедия.png",Русская Комедия
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/733/index.m3u8
+#EXTINF:-1 tvg-id="FAN" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/FAN.png",FAN
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/734/index.m3u8
+#EXTINF:-1 tvg-id="FAN HD" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/FAN%20HD.png",FAN HD
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/16021/index.m3u8
+
+
+#EXTINF:-1 tvg-id="Индия" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Индия.png",Индия
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/1001/index.m3u8
+#EXTINF:-1 tvg-id="FilmBox ArtHouse" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/FilmBox%20ArtHouse.png",FilmBox ArtHouse
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/1071/index.m3u8
+#EXTINF:-1 tvg-id="Дорама" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Дорама.png",Дорама
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/1066/index.m3u8
+#EXTINF:-1 tvg-id="Мир Сериала" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Мир%20Сериала.png",Мир Сериала
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/856/index.m3u8
+#EXTINF:-1 tvg-id="Ретро" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Ретро.png",Ретро
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/2018/index.m3u8
+#EXTINF:-1 tvg-id="Иллюзион+" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Иллюзион+.png",Иллюзион+
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/2038/index.m3u8
+#EXTINF:-1 tvg-id="Феникс плюс Кино" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Феникс%20плюс%20Кино.png",Феникс плюс Кино
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/2039/index.m3u8
+#EXTINF:-1 tvg-id=".red HD" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/.red%20HD.png",.red HD
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/2062/index.m3u8
+#EXTINF:-1 tvg-id="Киноман" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Киноман.png",Киноман
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/2121/index.m3u8
+#EXTINF:-1 tvg-id="Cinema" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Cinema.png",Cinema
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/5051/index.m3u8
+#EXTINF:-1 tvg-id="Мосфильм. Золотая коллекция" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Мосфильм.%20Золотая%20коллекция.png",Мосфильм. Золотая коллекция
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/6392/index.m3u8
+#EXTINF:-1 tvg-id="Trash HD" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Trash%20HD.png",Trash HD
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/6396/index.m3u8
+#EXTINF:-1 tvg-id="Премиальное HD" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Премиальное%20HD.png",Премиальное HD
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/7222/index.m3u8
+#EXTINF:-1 tvg-id="Киносемья HD" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Киносемья%20HD.png",Киносемья HD
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/7244/index.m3u8
+#EXTINF:-1 tvg-id="Киносвидание HD" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Киносвидание%20HD.png",Киносвидание HD
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/7245/index.m3u8
+#EXTINF:-1 tvg-id="Страшное HD" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Страшное%20HD.png",Страшное HD
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/7247/index.m3u8
+#EXTINF:-1 tvg-id="Кинокомедия HD" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Кинокомедия%20HD.png",Кинокомедия HD
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/7248/index.m3u8
+#EXTINF:-1 tvg-id="Киномикс HD" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Киномикс%20HD.png",Киномикс HD
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/7249/index.m3u8
+#EXTINF:-1 tvg-id="Кинохит HD" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Кинохит%20HD.png",Кинохит HD
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/7250/index.m3u8
+#EXTINF:-1 tvg-id="KinoJam 1 HD" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/KinoJam%201%20HD.png",KinoJam 1 HD
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/7260/index.m3u8
+#EXTINF:-1 tvg-id="KinoJam 2 HD" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/KinoJam%202%20HD.png",KinoJam 2 HD
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/7261/index.m3u8
+#EXTINF:-1 tvg-id="Мосфильм. Золотая коллекция HD" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Мосфильм.%20Золотая%20коллекция%20HD.png",Мосфильм. Золотая коллекция HD
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/7347/index.m3u8
+#EXTINF:-1 tvg-id="VF Adventure" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/VF%20Adventure.png",VF Adventure
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/10000/index.m3u8
+#EXTINF:-1 tvg-id="VF Anime" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/VF%20Anime.png",VF Anime
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/10001/index.m3u8
+#EXTINF:-1 tvg-id="VF Cartoon" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/VF%20Cartoon.png",VF Cartoon
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/10002/index.m3u8
+#EXTINF:-1 tvg-id="VF Comedy" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/VF%20Comedy.png",VF Comedy
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/10003/index.m3u8
+#EXTINF:-1 tvg-id="VF Family" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/VF%20Family.png",VF Family
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/10004/index.m3u8
+#EXTINF:-1 tvg-id="VF Fantasy" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/VF%20Fantasy.png",VF Fantasy
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/10005/index.m3u8
+#EXTINF:-1 tvg-id="VF Melodrama" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/VF%20Melodrama.png",VF Melodrama
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/10006/index.m3u8
+#EXTINF:-1 tvg-id="VF Mystic" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/VF%20Mystic.png",VF Mystic
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/10007/index.m3u8
+#EXTINF:-1 tvg-id="VF Ужасы" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/VF%20Ужасы.png",VF Ужасы
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/10008/index.m3u8
+#EXTINF:-1 tvg-id="VF VHS MIX" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/VF%20VHS%20MIX.png",VF VHS MIX
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/10009/index.m3u8
+#EXTINF:-1 tvg-id="VF Ужасы VHS" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/VF%20Ужасы%20VHS.png",VF Ужасы VHS
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/10010/index.m3u8
+#EXTINF:-1 tvg-id="VF Премьера" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/VF%20Премьера.png",VF Премьера
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/10051/index.m3u8
+#EXTINF:-1 tvg-id="VF Premiere" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/VF%20Premiere.png",VF Premiere
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/10052/index.m3u8
+#EXTINF:-1 tvg-id="VF Классика" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/VF%20Классика.png",VF Классика
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/10053/index.m3u8
+#EXTINF:-1 tvg-id="VF Classic" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/VF%20Classic.png",VF Classic
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/10054/index.m3u8
+#EXTINF:-1 tvg-id="VF Комедия" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/VF%20Комедия.png",VF Комедия
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/10055/index.m3u8
+#EXTINF:-1 tvg-id="VF Катастрофы" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/VF%20Катастрофы.png",VF Катастрофы
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/10080/index.m3u8
+#EXTINF:-1 tvg-id="VF Marvel" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/VF%20Marvel.png",VF Marvel
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/10081/index.m3u8
+#EXTINF:-1 tvg-id="VF Военные" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/VF%20Военные.png",VF Военные
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/10082/index.m3u8
+#EXTINF:-1 tvg-id="VF Наша победа" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/VF%20Наша%20победа.png",VF Наша победа
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/10083/index.m3u8
+#EXTINF:-1 tvg-id="VF Мосфильм" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/VF%20Мосфильм.png",VF Мосфильм
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/10084/index.m3u8
+#EXTINF:-1 tvg-id="VF Фильмы СССР" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/VF%20Фильмы%20СССР.png",VF Фильмы СССР
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/10085/index.m3u8
+#EXTINF:-1 tvg-id="VF Мультфильмы СССР" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/VF%20Мультфильмы%20СССР.png",VF Мультфильмы СССР
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/10086/index.m3u8
+#EXTINF:-1 tvg-id="VF Боевик" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/VF%20Боевик.png",VF Боевик
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/10087/index.m3u8
+#EXTINF:-1 tvg-id="Flix Snip" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Flix%20Snip.png",Flix Snip
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/10060/index.m3u8
+#EXTINF:-1 tvg-id="Shot TV" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Shot%20TV.png",Shot TV
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/526/index.m3u8
+#EXTINF:-1 tvg-id="CineMan" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/CineMan.png",CineMan
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/11004/index.m3u8
+#EXTINF:-1 tvg-id="CineMan Top" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/CineMan%20Top.png",CineMan Top
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/11005/index.m3u8
+#EXTINF:-1 tvg-id="CineMan Action" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/CineMan%20Action.png",CineMan Action
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/11006/index.m3u8
+#EXTINF:-1 tvg-id="CineMan Thriller" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/CineMan%20Thriller.png",CineMan Thriller
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/11007/index.m3u8
+#EXTINF:-1 tvg-id="CineMan Мелодрама" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/CineMan%20Мелодрама.png",CineMan Мелодрама
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/11008/index.m3u8
+#EXTINF:-1 tvg-id="CineMan Marvel" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/CineMan%20Marvel.png",CineMan Marvel
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/11009/index.m3u8
+#EXTINF:-1 tvg-id="CineMan Ужасы" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/CineMan%20Ужасы.png",CineMan Ужасы
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/11010/index.m3u8
+#EXTINF:-1 tvg-id="CineMan Комедия" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/CineMan%20Комедия.png",CineMan Комедия
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/11011/index.m3u8
+#EXTINF:-1 tvg-id="CineMan VHS" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/CineMan%20VHS.png",CineMan VHS
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/11012/index.m3u8
+#EXTINF:-1 tvg-id="CineMan РуКино" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/CineMan%20РуКино.png",CineMan РуКино
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/11013/index.m3u8
+#EXTINF:-1 tvg-id="CineMan Сваты" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/CineMan%20Сваты.png",CineMan Сваты
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/11014/index.m3u8
+#EXTINF:-1 tvg-id="CineMan Катастрофы" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/CineMan%20Катастрофы.png",CineMan Катастрофы
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/15106/index.m3u8
+#EXTINF:-1 tvg-id="CineMan Ментовские войны" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/CineMan%20Ментовские%20войны.png",CineMan Ментовские войны
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/16063/index.m3u8
+#EXTINF:-1 tvg-id="CineMan ПёС" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/CineMan%20ПёС.png",CineMan ПёС
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/16064/index.m3u8
+#EXTINF:-1 tvg-id="CineMan Лесник" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/CineMan%20Лесник.png",CineMan Лесник
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/16065/index.m3u8
+#EXTINF:-1 tvg-id="CineMan MiniSeries" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/CineMan%20MiniSeries.png",CineMan MiniSeries
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/19437/index.m3u8
+#EXTINF:-1 tvg-id="The X-Files" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/The%20X-Files.png",The X-Files
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/11055/index.m3u8
+#EXTINF:-1 tvg-id="Кинозал! Интерны ТВ" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Кинозал!%20Интерны%20ТВ.png",Кинозал! Интерны ТВ
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/11060/index.m3u8
+#EXTINF:-1 tvg-id="Кинозал! СССР" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Кинозал!%20СССР.png",Кинозал! СССР
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/11061/index.m3u8
+#EXTINF:-1 tvg-id="Кинозал! Сваты" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Кинозал!%20Сваты.png",Кинозал! Сваты
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/11062/index.m3u8
+#EXTINF:-1 tvg-id="Кинозал! Универ ТВ" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Кинозал!%20Универ%20ТВ.png",Кинозал! Универ ТВ
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/11063/index.m3u8
+#EXTINF:-1 tvg-id="VB VHS Classic" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/VB%20VHS%20Classic.png",VB VHS Classic
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/19429/index.m3u8
+#EXTINF:-1 tvg-id="VF TOP Series" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/VF%20TOP%20Series.png",VF TOP Series
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/11116/index.m3u8
+#EXTINF:-1 tvg-id="VF VHS Cartoon" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/VF%20VHS%20Cartoon.png",VF VHS Cartoon
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/11118/index.m3u8
+#EXTINF:-1 tvg-id="VF Art house" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/VF%20Art%20house.png",VF Art house
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/11119/index.m3u8
+#EXTINF:-1 tvg-id="VF Detective" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/VF%20Detective.png",VF Detective
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/11120/index.m3u8
+#EXTINF:-1 tvg-id="VF Fantastic" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/VF%20Fantastic.png",VF Fantastic
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/11121/index.m3u8
+#EXTINF:-1 tvg-id="VF Оскар" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/VF%20Оскар.png",VF Оскар
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/11122/index.m3u8
+#EXTINF:-1 tvg-id="VF Малыш" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/VF%20Малыш.png",VF Малыш
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/11123/index.m3u8
+#EXTINF:-1 tvg-id="TOP Великолепный Век HD" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/TOP%20Великолепный%20Век%20HD.png",TOP Великолепный Век HD
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/13001/index.m3u8
+#EXTINF:-1 tvg-id="TOP 80 S HD" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/TOP%2080%20S%20HD.png",TOP 80 S HD
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/13002/index.m3u8
+#EXTINF:-1 tvg-id="TOP BUDO HD" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/TOP%20BUDO%20HD.png",TOP BUDO HD
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/13003/index.m3u8
+#EXTINF:-1 tvg-id="TOP Cinema HD" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/TOP%20Cinema%20HD.png",TOP Cinema HD
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/13004/index.m3u8
+#EXTINF:-1 tvg-id="TOP USSR HD" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/TOP%20USSR%20HD.png",TOP USSR HD
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/13005/index.m3u8
+#EXTINF:-1 tvg-id="TOP MIX HD" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/TOP%20MIX%20HD.png",TOP MIX HD
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/13006/index.m3u8
+#EXTINF:-1 tvg-id="MM 007 HD" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/MM%20007%20HD.png",MM 007 HD
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/13009/index.m3u8
+#EXTINF:-1 tvg-id="MM Love HD" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/MM%20Love%20HD.png",MM Love HD
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/13010/index.m3u8
+#EXTINF:-1 tvg-id="MM NewFilm 1 HD" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/MM%20NewFilm%201%20HD.png",MM NewFilm 1 HD
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/13011/index.m3u8
+#EXTINF:-1 tvg-id="MM NewFilm 2 HD" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/MM%20NewFilm%202%20HD.png",MM NewFilm 2 HD
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/13012/index.m3u8
+#EXTINF:-1 tvg-id="MM NewFilm 3 HD" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/MM%20NewFilm%203%20HD.png",MM NewFilm 3 HD
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/13013/index.m3u8
+#EXTINF:-1 tvg-id="MM NewFilm RU HD" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/MM%20NewFilm%20RU%20HD.png",MM NewFilm RU HD
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/13014/index.m3u8
+#EXTINF:-1 tvg-id="MM Tom and Jerry HD" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/MM%20Tom%20and%20Jerry%20HD.png",MM Tom and Jerry HD
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/13016/index.m3u8
+#EXTINF:-1 tvg-id="MM UFO HD" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/MM%20UFO%20HD.png",MM UFO HD
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/13017/index.m3u8
+#EXTINF:-1 tvg-id="MM USSR 1941-1945 HD" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/MM%20USSR%201941-1945%20HD.png",MM USSR 1941-1945 HD
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/13018/index.m3u8
+#EXTINF:-1 tvg-id="MM USSR Комедия HD" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/MM%20USSR%20Комедия%20HD.png",MM USSR Комедия HD
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/13019/index.m3u8
+#EXTINF:-1 tvg-id="MM USSR Мультфильм HD" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/MM%20USSR%20Мультфильм%20HD.png",MM USSR Мультфильм HD
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/13020/index.m3u8
+#EXTINF:-1 tvg-id="MM USSR Сказки HD" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/MM%20USSR%20Сказки%20HD.png",MM USSR Сказки HD
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/13021/index.m3u8
+#EXTINF:-1 tvg-id="MM USSR Драма HD" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/MM%20USSR%20Драма%20HD.png",MM USSR Драма HD
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/13022/index.m3u8
+#EXTINF:-1 tvg-id="MM Грайндхаус HD" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/MM%20Грайндхаус%20HD.png",MM Грайндхаус HD
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/13025/index.m3u8
+#EXTINF:-1 tvg-id="MM Honey HD" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/MM%20Honey%20HD.png",MM Honey HD
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/13026/index.m3u8
+#EXTINF:-1 tvg-id="MM Боевик Classic HD" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/MM%20Боевик%20Classic%20HD.png",MM Боевик Classic HD
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/13027/index.m3u8
+#EXTINF:-1 tvg-id="MM Боевик HD" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/MM%20Боевик%20HD.png",MM Боевик HD
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/13028/index.m3u8
+#EXTINF:-1 tvg-id="MM Вестерн HD" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/MM%20Вестерн%20HD.png",MM Вестерн HD
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/13029/index.m3u8
+#EXTINF:-1 tvg-id="MM Воронины HD" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/MM%20Воронины%20HD.png",MM Воронины HD
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/13031/index.m3u8
+#EXTINF:-1 tvg-id="MM Затмение HD" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/MM%20Затмение%20HD.png",MM Затмение HD
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/13032/index.m3u8
+#EXTINF:-1 tvg-id="MM История HD" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/MM%20История%20HD.png",MM История HD
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/13033/index.m3u8
+#EXTINF:-1 tvg-id="MM Катастрофа HD" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/MM%20Катастрофа%20HD.png",MM Катастрофа HD
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/13034/index.m3u8
+#EXTINF:-1 tvg-id="MM Квартирник HD" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/MM%20Квартирник%20HD.png",MM Квартирник HD
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/13035/index.m3u8
+#EXTINF:-1 tvg-id="MM Киберпанк HD" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/MM%20Киберпанк%20HD.png",MM Киберпанк HD
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/13036/index.m3u8
+#EXTINF:-1 tvg-id="MM Комедия Classic HD" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/MM%20Комедия%20Classic%20HD.png",MM Комедия Classic HD
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/13037/index.m3u8
+#EXTINF:-1 tvg-id="MM Комедия HD" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/MM%20Комедия%20HD.png",MM Комедия HD
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/13038/index.m3u8
+#EXTINF:-1 tvg-id="MM Криминал HD" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/MM%20Криминал%20HD.png",MM Криминал HD
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/13039/index.m3u8
+#EXTINF:-1 tvg-id="MM Крутые 90-е HD" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/MM%20Крутые%2090-е%20HD.png",MM Крутые 90-е HD
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/13040/index.m3u8
+#EXTINF:-1 tvg-id="MM Кунг-Фу HD" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/MM%20Кунг-Фу%20HD.png",MM Кунг-Фу HD
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/13041/index.m3u8
+#EXTINF:-1 tvg-id="MM Lesson HD" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/MM%20Lesson%20HD.png",MM Lesson HD
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/13042/index.m3u8
+#EXTINF:-1 tvg-id="MM Smile HD" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/MM%20Smile%20HD.png",MM Smile HD
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/13043/index.m3u8
+#EXTINF:-1 tvg-id="MM Мифология HD" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/MM%20Мифология%20HD.png",MM Мифология HD
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/13044/index.m3u8
+#EXTINF:-1 tvg-id="MM Нуар HD" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/MM%20Нуар%20HD.png",MM Нуар HD
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/13045/index.m3u8
+#EXTINF:-1 tvg-id="MM Ситком 2.0 HD" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/MM%20Ситком%202.0%20HD.png",MM Ситком 2.0 HD
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/13046/index.m3u8
+#EXTINF:-1 tvg-id="MM Погружение HD" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/MM%20Погружение%20HD.png",MM Погружение HD
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/13047/index.m3u8
+#EXTINF:-1 tvg-id="MM Приключения HD" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/MM%20Приключения%20HD.png",MM Приключения HD
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/13048/index.m3u8
+#EXTINF:-1 tvg-id="MM Полицейский с Рублёвки HD" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/MM%20Полицейский%20с%20Рублёвки%20HD.png",MM Полицейский с Рублёвки HD
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/13049/index.m3u8
+#EXTINF:-1 tvg-id="MM Роскино HD" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/MM%20Роскино%20HD.png",MM Роскино HD
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/13050/index.m3u8
+#EXTINF:-1 tvg-id="MM Сваты HD" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/MM%20Сваты%20HD.png",MM Сваты HD
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/13051/index.m3u8
+#EXTINF:-1 tvg-id="MM Ситком HD" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/MM%20Ситком%20HD.png",MM Ситком HD
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/13052/index.m3u8
+#EXTINF:-1 tvg-id="MM Скорость HD" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/MM%20Скорость%20HD.png",MM Скорость HD
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/13053/index.m3u8
+#EXTINF:-1 tvg-id="MM Спорт HD" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/MM%20Спорт%20HD.png",MM Спорт HD
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/13054/index.m3u8
+#EXTINF:-1 tvg-id="MM Стивен Кинг HD" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/MM%20Стивен%20Кинг%20HD.png",MM Стивен Кинг HD
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/13055/index.m3u8
+#EXTINF:-1 tvg-id="MM Супергерои HD" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/MM%20Супергерои%20HD.png",MM Супергерои HD
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/13056/index.m3u8
+#EXTINF:-1 tvg-id="MM Flip UHD" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/MM%20Flip%20UHD.png",MM Flip UHD
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/13057/index.m3u8
+#EXTINF:-1 tvg-id="MM Триллер HD" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/MM%20Триллер%20HD.png",MM Триллер HD
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/13058/index.m3u8
+#EXTINF:-1 tvg-id="MM Ужастик HD" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/MM%20Ужастик%20HD.png",MM Ужастик HD
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/13059/index.m3u8
+#EXTINF:-1 tvg-id="MM USSR Приключения HD" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/MM%20USSR%20Приключения%20HD.png",MM USSR Приключения HD
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/13060/index.m3u8
+#EXTINF:-1 tvg-id="MM Синематограф HD" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/MM%20Синематограф%20HD.png",MM Синематограф HD
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/13061/index.m3u8
+#EXTINF:-1 tvg-id="MM Фантастика HD" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/MM%20Фантастика%20HD.png",MM Фантастика HD
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/13062/index.m3u8
+#EXTINF:-1 tvg-id="MM Фобия HD" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/MM%20Фобия%20HD.png",MM Фобия HD
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/13063/index.m3u8
+#EXTINF:-1 tvg-id="MM Walt Disney HD" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/MM%20Walt%20Disney%20HD.png",MM Walt Disney HD
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/13064/index.m3u8
+#EXTINF:-1 tvg-id="MM Live Planet HD" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/MM%20Live%20Planet%20HD.png",MM Live Planet HD
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/13095/index.m3u8
+#EXTINF:-1 tvg-id="MM USSR Детектив HD" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/MM%20USSR%20Детектив%20HD.png",MM USSR Детектив HD
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/13096/index.m3u8
+#EXTINF:-1 tvg-id="MM Семейный 1 HD" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/MM%20Семейный%201%20HD.png",MM Семейный 1 HD
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/13097/index.m3u8
+#EXTINF:-1 tvg-id="MM Семейный 2 HD" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/MM%20Семейный%202%20HD.png",MM Семейный 2 HD
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/13098/index.m3u8
+#EXTINF:-1 tvg-id="MM Ужасы HD" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/MM%20Ужасы%20HD.png",MM Ужасы HD
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/13099/index.m3u8
+#EXTINF:-1 tvg-id="MM Ужасы Classic HD" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/MM%20Ужасы%20Classic%20HD.png",MM Ужасы Classic HD
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/14128/index.m3u8
+#EXTINF:-1 tvg-id="MM Celebrity HD" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/MM%20Celebrity%20HD.png",MM Celebrity HD
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/16084/index.m3u8
+#EXTINF:-1 tvg-id="MM Classic HD" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/MM%20Classic%20HD.png",MM Classic HD
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/16085/index.m3u8
+#EXTINF:-1 tvg-id="MM Драма HD" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/MM%20Драма%20HD.png",MM Драма HD
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/16086/index.m3u8
+#EXTINF:-1 tvg-id="VF Сваты" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/VF%20Сваты.png",VF Сваты
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/13080/index.m3u8
+#EXTINF:-1 tvg-id="VF Солдаты" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/VF%20Солдаты.png",VF Солдаты
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/13081/index.m3u8
+#EXTINF:-1 tvg-id="VF Тайны следствия" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/VF%20Тайны%20следствия.png",VF Тайны следствия
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/13082/index.m3u8
+#EXTINF:-1 tvg-id="VF Воронины" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/VF%20Воронины.png",VF Воронины
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/13083/index.m3u8
+#EXTINF:-1 tvg-id="VF Универ" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/VF%20Универ.png",VF Универ
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/13084/index.m3u8
+#EXTINF:-1 tvg-id="VF Series" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/VF%20Series.png",VF Series
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/13085/index.m3u8
+#EXTINF:-1 tvg-id="VF След" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/VF%20След.png",VF След
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/13086/index.m3u8
+#EXTINF:-1 tvg-id="VF Сериал" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/VF%20Сериал.png",VF Сериал
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/13087/index.m3u8
+#EXTINF:-1 tvg-id="VF Мыльные оперы" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/VF%20Мыльные%20оперы.png",VF Мыльные оперы
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/13088/index.m3u8
+#EXTINF:-1 tvg-id="VF Thriller" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/VF%20Thriller.png",VF Thriller
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/13089/index.m3u8
+#EXTINF:-1 tvg-id="VF Индия" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/VF%20Индия.png",VF Индия
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/13090/index.m3u8
+#EXTINF:-1 tvg-id="VF История" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/VF%20История.png",VF История
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/13091/index.m3u8
+#EXTINF:-1 tvg-id="VF Comics" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/VF%20Comics.png",VF Comics
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/13092/index.m3u8
+#EXTINF:-1 tvg-id="VF Криминал" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/VF%20Криминал.png",VF Криминал
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/13093/index.m3u8
+#EXTINF:-1 tvg-id="VF Клиника" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/VF%20Клиника.png",VF Клиника
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/13094/index.m3u8
+#EXTINF:-1 tvg-id="VF Луи де Фюнес" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/VF%20Луи%20де%20Фюнес.png",VF Луи де Фюнес
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/17000/index.m3u8
+#EXTINF:-1 tvg-id="VF Чернобыль" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/VF%20Чернобыль.png",VF Чернобыль
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/17001/index.m3u8
+#EXTINF:-1 tvg-id="VF The X-Files" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/VF%20The%20X-Files.png",VF The X-Files
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/17002/index.m3u8
+#EXTINF:-1 tvg-id="VF Сверхъестественное" group-title="кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/VF%20Сверхъестественное.png",VF Сверхъестественное
+http://f388add0.akadatel.com/iptv/RM5NW8XFNP53NY/17003/index.m3u8
