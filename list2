@@ -1,3 +1,4 @@
+#EXTM3U x-tvg-url="http://gabbarit.drm-play.com/epg_1.xml.gz"
 https://cid-iptv.x10.network/channel.php?channel=2x2_7&token=33beb4c1502655501c5d1393cb2aa44f925e513e79bf5aa26145821aa4fe3e80
 #EXTINF:-1 catchup="default" catchup-source="?utc={utc}&lutc={lutc}",BCU Action HD
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
