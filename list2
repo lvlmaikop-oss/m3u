@@ -1,4 +1,3 @@
-#EXTM3U x-tvg-url="http://gabbarit.drm-play.com/epg_1.xml.gz"
 https://cid-iptv.x10.network/channel.php?channel=2x2_7&token=33beb4c1502655501c5d1393cb2aa44f925e513e79bf5aa26145821aa4fe3e80
 #EXTINF:-1 catchup="default" catchup-source="?utc={utc}&lutc={lutc}",BCU Action HD
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
@@ -179,6 +178,69 @@ https://cid-iptv.x10.network/channel.php?channel=box_travel_premiere_hd&token=33
 https://cid-iptv.x10.network/channel.php?channel=box_western_hd&token=33beb4c1502655501c5d1393cb2aa44f925e513e79bf5aa26145821aa4fe3e80
 #EXTINF:-1 catchup="default" catchup-source="?utc={utc}&lutc={lutc}",BOX Zombie HD
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://cid-iptv.x10.network/channel.php?channel=box_zombie_hd&token=33beb4c1502655501c5d1393cb2aa44f925e513e79bf5aa26145821aa4fe3e80
+#EXTINF:-1 catchup="default" catchup-source="?utc={utc}&lutc={lutc}",Cartoon Network
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://cid-iptv.x10.network/channel.php?channel=cartoon-network&token=33beb4c1502655501c5d1393cb2aa44f925e513e79bf5aa26145821aa4fe3e80
+#EXTINF:-1 catchup="default" catchup-source="?utc={utc}&lutc={lutc}",Clarity4K Asia
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://cid-iptv.x10.network/channel.php?channel=clarity4k_asia&token=33beb4c1502655501c5d1393cb2aa44f925e513e79bf5aa26145821aa4fe3e80
+#EXTINF:-1 catchup="default" catchup-source="?utc={utc}&lutc={lutc}",Clarity4K Fantastic HD
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://cid-iptv.x10.network/channel.php?channel=clarity4k_fantastic_hd&token=33beb4c1502655501c5d1393cb2aa44f925e513e79bf5aa26145821aa4fe3e80
+#EXTINF:-1 catchup="default" catchup-source="?utc={utc}&lutc={lutc}",Clarity4K Gamefilm
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://cid-iptv.x10.network/channel.php?channel=clarity4k_gamefilm&token=33beb4c1502655501c5d1393cb2aa44f925e513e79bf5aa26145821aa4fe3e80
+#EXTINF:-1 catchup="default" catchup-source="?utc={utc}&lutc={lutc}",Clarity4K Netflix
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://cid-iptv.x10.network/channel.php?channel=clarity4k_netflix&token=33beb4c1502655501c5d1393cb2aa44f925e513e79bf5aa26145821aa4fe3e80
+#EXTINF:-1 catchup="default" catchup-source="?utc={utc}&lutc={lutc}",Clarity4K Боевик
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://cid-iptv.x10.network/channel.php?channel=clarity4k_boevik&token=33beb4c1502655501c5d1393cb2aa44f925e513e79bf5aa26145821aa4fe3e80
+#EXTINF:-1 catchup="default" catchup-source="?utc={utc}&lutc={lutc}",Clarity4K Драмы
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://cid-iptv.x10.network/channel.php?channel=clarity4k_dramy&token=33beb4c1502655501c5d1393cb2aa44f925e513e79bf5aa26145821aa4fe3e80
+#EXTINF:-1 catchup="default" catchup-source="?utc={utc}&lutc={lutc}",Clarity4k Единоборства
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://cid-iptv.x10.network/channel.php?channel=clarity4k_edinoborstva&token=33beb4c1502655501c5d1393cb2aa44f925e513e79bf5aa26145821aa4fe3e80
+#EXTINF:-1 catchup="default" catchup-source="?utc={utc}&lutc={lutc}",Clarity4K КиноФраншизы
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://cid-iptv.x10.network/channel.php?channel=clarity4k_kinofranshizy&token=33beb4c1502655501c5d1393cb2aa44f925e513e79bf5aa26145821aa4fe3e80
+#EXTINF:-1 catchup="default" catchup-source="?utc={utc}&lutc={lutc}",Clarity4k Концерт
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://cid-iptv.x10.network/channel.php?channel=clarity4k_koncert&token=33beb4c1502655501c5d1393cb2aa44f925e513e79bf5aa26145821aa4fe3e80
+#EXTINF:-1 catchup="default" catchup-source="?utc={utc}&lutc={lutc}",Clarity4K Космомир
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://cid-iptv.x10.network/channel.php?channel=clarity4k_kosmomir&token=33beb4c1502655501c5d1393cb2aa44f925e513e79bf5aa26145821aa4fe3e80
+#EXTINF:-1 catchup="default" catchup-source="?utc={utc}&lutc={lutc}",Clarity4K Семейный
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://cid-iptv.x10.network/channel.php?channel=clarity4k_semeyniy&token=33beb4c1502655501c5d1393cb2aa44f925e513e79bf5aa26145821aa4fe3e80
+#EXTINF:-1 catchup="default" catchup-source="?utc={utc}&lutc={lutc}",Clarity4K Ужасы
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://cid-iptv.x10.network/channel.php?channel=clarity4k_uzhasy&token=33beb4c1502655501c5d1393cb2aa44f925e513e79bf5aa26145821aa4fe3e80
+#EXTINF:-1 catchup="default" catchup-source="?utc={utc}&lutc={lutc}",Clarity4K Фантастика
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://cid-iptv.x10.network/channel.php?channel=clarity4k_fantastika&token=33beb4c1502655501c5d1393cb2aa44f925e513e79bf5aa26145821aa4fe3e80
+#EXTINF:-1 catchup="default" catchup-source="?utc={utc}&lutc={lutc}",Clubbing TV
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://cid-iptv.x10.network/channel.php?channel=Clubbing-TV&token=33beb4c1502655501c5d1393cb2aa44f925e513e79bf5aa26145821aa4fe3e80
+#EXTINF:-1 catchup="default" catchup-source="?utc={utc}&lutc={lutc}",CPS Action HD
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://cid-iptv.x10.network/channel.php?channel=cps_action_hd&token=33beb4c1502655501c5d1393cb2aa44f925e513e79bf5aa26145821aa4fe3e80
+#EXTINF:-1 catchup="default" catchup-source="?utc={utc}&lutc={lutc}",CPS Comedy HD
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://cid-iptv.x10.network/channel.php?channel=cps_comedy_hd&token=33beb4c1502655501c5d1393cb2aa44f925e513e79bf5aa26145821aa4fe3e80
+#EXTINF:-1 catchup="default" catchup-source="?utc={utc}&lutc={lutc}",CPS Detective HD
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://cid-iptv.x10.network/channel.php?channel=cps_detective_hd&token=33beb4c1502655501c5d1393cb2aa44f925e513e79bf5aa26145821aa4fe3e80
+#EXTINF:-1 catchup="default" catchup-source="?utc={utc}&lutc={lutc}",CPS Drama HD
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://cid-iptv.x10.network/channel.php?channel=cps_drama_hd&token=33beb4c1502655501c5d1393cb2aa44f925e513e79bf5aa26145821aa4fe3e80
+#EXTINF:-1 catchup="default" catchup-source="?utc={utc}&lutc={lutc}",CPS Fiction HD
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://cid-iptv.x10.network/channel.php?channel=cps_fiction_hd&token=33beb4c1502655501c5d1393cb2aa44f925e513e79bf5aa26145821aa4fe3e80
+#EXTINF:-1 catchup="default" catchup-source="?utc={utc}&lutc={lutc}",CPS Mix HD
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://cid-iptv.x10.network/channel.php?channel=cps_mix_hd&token=33beb4c1502655501c5d1393cb2aa44f925e513e79bf5aa26145821aa4fe3e80
 #EXTINF:-1 catchup="default" catchup-source="?utc={utc}&lutc={lutc}",Discovery
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
@@ -217,6 +279,18 @@ https://cid-iptv.x10.network/channel.php?channel=iptvplay_pamyat_hd&token=33beb4
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://cid-iptv.x10.network/channel.php?channel=iptvplay_uzhastik_hd&token=33beb4c1502655501c5d1393cb2aa44f925e513e79bf5aa26145821aa4fe3e80
 #EXTINF:-1 catchup="default" catchup-source="?utc={utc}&lutc={lutc}",IPTVPLAY ФАНТАСТИКА HD
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://cid-iptv.x10.network/channel.php?channel=iptvplay_fantastika_hd&token=33beb4c1502655501c5d1393cb2aa44f925e513e79bf5aa26145821aa4fe3e80
+#EXTINF:-1 catchup="default" catchup-source="?utc={utc}&lutc={lutc}",Nick Jr
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://cid-iptv.x10.network/channel.php?channel=nick_jr&token=33beb4c1502655501c5d1393cb2aa44f925e513e79bf5aa26145821aa4fe3e80
+#EXTINF:-1 catchup="default" catchup-source="?utc={utc}&lutc={lutc}",Nickelodeon
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://cid-iptv.x10.network/channel.php?channel=nickelodeon&token=33beb4c1502655501c5d1393cb2aa44f925e513e79bf5aa26145821aa4fe3e80
+#EXTINF:-1 catchup="default" catchup-source="?utc={utc}&lutc={lutc}",Nickelodeon HD
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://cid-iptv.x10.network/channel.php?channel=nickelodeon-hd&token=33beb4c1502655501c5d1393cb2aa44f925e513e79bf5aa26145821aa4fe3e80
+#EXTINF:-1 catchup="default" catchup-source="?utc={utc}&lutc={lutc}",Nicktoons
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://cid-iptv.x10.network/channel.php?channel=nicktoons&token=33beb4c1502655501c5d1393cb2aa44f925e513e79bf5aa26145821aa4fe3e80
 #EXTINF:-1 catchup="default" catchup-source="?utc={utc}&lutc={lutc}",SKY HIGH ARCHIVE FHD
@@ -346,4 +420,10 @@ https://cid-iptv.x10.network/channel.php?channel=tiji&token=33beb4c1502655501c5d
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://cid-iptv.x10.network/channel.php?channel=travel-adventure&token=33beb4c1502655501c5d1393cb2aa44f925e513e79bf5aa26145821aa4fe3e80
 #EXTINF:-1 catchup="default" catchup-source="?utc={utc}&lutc={lutc}",Viju History
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://cid-iptv.x10.network/channel.php?channel=viju-history&token=33beb4c1502655501c5d1393cb2aa44f925e513e79bf5aa26145821aa4fe3e80
+#EXTINF:-1 catchup="default" catchup-source="?utc={utc}&lutc={lutc}",Бобер
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://cid-iptv.x10.network/channel.php?channel=bober&token=33beb4c1502655501c5d1393cb2aa44f925e513e79bf5aa26145821aa4fe3e80
+#EXTINF:-1 catchup="default" catchup-source="?utc={utc}&lutc={lutc}",В мире животных
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
