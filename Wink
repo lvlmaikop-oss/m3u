@@ -889,6 +889,8 @@ https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_YAMREG_URAL_YNF/variant
 http://dmi3y-tv6.ru/hls/blrus/CH_BELARUS24HD.m3u8
 #EXTINF:-1 group-title="Беларусь",Беларусь 24
 http://dmi3y-tv6.ru/hls/blrus/CH_BELARUS24.m3u8
+#EXTINF:-1 group-title="Беларусь",Звязда
+http://tinyurl.com/TvvZaTak/6238-req_offset_28000000-req_window_0-3k_v5.m3u8?|User-Agent=http-user-agent=Lavf53.32.100
 #EXTINF:-1 group-title="Беларусь",ОНТ HD
 http://dmi3y-tv6.ru/hls/blrus/CH_OHTHD.m3u8
 #EXTINF:-1 group-title="Беларусь",БелРос
