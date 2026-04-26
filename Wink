@@ -917,3 +917,293 @@ http://dmi3y-tv6.ru/hls/blrus/CH_1INFORMATSYONNYHD.m3u8
 http://dmi3y-tv6.ru/hls/blrus/CH_1INFORMATSYONNY.m3u8
 #EXTINF:-1 group-title="Беларусь",СТВ HD720
 http://dmi3y-tv6.ru/hls/blrus/CH_CTBHD720.m3u8
+
+#EXTINF:-1 group-title="Voka",Киносат
+http://46.53.208.4:80/live/59.m3u8
+#EXTINF:-1 group-title="Voka",Epic
+http://46.53.208.4:80/live/171.m3u8
+#EXTINF:-1 group-title="Voka",.Sci-Fi
+http://46.53.208.4:80/live/207.m3u8
+#EXTINF:-1 group-title="Voka",.BLACK
+http://46.53.208.4:80/live/3001.m3u8
+#EXTINF:-1 group-title="Voka",.Red
+http://46.53.208.4:80/live/1400.m3u8
+#EXTINF:-1 group-title="Voka",Наше ТВ
+http://46.53.208.4:80/live/218.m3u8
+#EXTINF:-1 group-title="Voka",Кинопоказ HD
+http://46.53.208.4:80/live/285.m3u8
+#EXTINF:-1 group-title="Voka",Феникс+кино
+http://46.53.208.4:80/live/332.m3u8
+#EXTINF:-1 group-title="Voka",Ретро
+http://46.53.208.4:80/live/335.m3u8
+#EXTINF:-1 group-title="Voka",Viju TV1000
+http://46.53.208.4:80/live/5107.m3u8
+#EXTINF:-1 group-title="Voka",Viju TV1000 action
+http://46.53.208.4:80/live/5106.m3u8
+#EXTINF:-1 group-title="Voka",Viju TV1000 Новелла HD
+http://46.53.208.4:80/live/545.m3u8
+#EXTINF:-1 group-title="Voka",Viju TV1000 romantica
+http://46.53.208.4:80/live/3111.m3u8
+#EXTINF:-1 group-title="Voka",Viju TV1000 КИНО
+http://46.53.208.4:80/live/5109.m3u8
+#EXTINF:-1 group-title="Voka",VIJU+ COMEDY
+http://46.53.208.4:80/live/6003.m3u8
+#EXTINF:-1 group-title="Voka",VIJU+ MEGAHIT
+http://46.53.208.4:80/live/6002.m3u8
+#EXTINF:-1 group-title="Voka",VIJU+ PREMIERE
+http://46.53.208.4:80/live/6001.m3u8
+#EXTINF:-1 group-title="Voka",VIJU+ SERIAL
+http://46.53.208.4:80/live/6004.m3u8
+#EXTINF:-1 group-title="Voka",Ultra HD Cinema
+http://46.53.208.4:80/live/1042.m3u8
+#EXTINF:-1 group-title="Voka",VHS-ка
+http://46.53.208.4:80/live/1123.m3u8
+#EXTINF:-1 group-title="Voka",TV XXI
+http://46.53.208.4:80/live/2018.m3u8
+#EXTINF:-1 group-title="Voka",Cinema
+http://46.53.208.4:80/live/2092.m3u8
+#EXTINF:-1 group-title="Voka",Иллюзион+
+http://46.53.208.4:80/live/603.m3u8
+#EXTINF:-1 group-title="Voka",Иллюзион
+http://46.53.208.4:80/live/616.m3u8
+#EXTINF:-1 group-title="Voka",Иллюзион HD
+http://46.53.208.4:80/live/869.m3u8
+#EXTINF:-1 group-title="Voka",Еврокино
+http://46.53.208.4:80/live/903.m3u8
+#EXTINF:-1 group-title="Voka",ТВ СИНЕМА HD
+http://46.53.208.4:80/live/3870.m3u8
+#EXTINF:-1 group-title="Voka",МУВИ ТВ
+http://46.53.208.4:80/live/5007.m3u8
+#EXTINF:-1 group-title="Voka",Домашний
+http://46.53.208.4:80/live/961.m3u8
+#EXTINF:-1 group-title="Voka",Дом кино
+http://46.53.208.4:80/live/5105.m3u8
+#EXTINF:-1 group-title="Voka",ДОМ КИНО ПРЕМИУМ
+http://46.53.208.4:80/live/5111.m3u8
+#EXTINF:-1 group-title="Voka",START WORLD HD
+http://46.53.208.4:80/live/9011.m3u8
+#EXTINF:-1 group-title="Voka",Перец
+http://46.53.208.4:80/live/971.m3u8
+#EXTINF:-1 group-title="Voka",Золотая коллекция
+http://46.53.208.4:80/live/1124.m3u8
+#EXTINF:-1 group-title="Voka",Советское кино
+http://46.53.208.4:80/live/3018.m3u8
+#EXTINF:-1 group-title="Voka",КЛАСИКА КИНО
+http://46.53.208.4:80/live/3006.m3u8
+#EXTINF:-1 group-title="Voka",Novella TV
+http://46.53.208.4:80/live/1205.m3u8
+#EXTINF:-1 group-title="Voka",Start Air
+http://46.53.208.4:80/live/1804.m3u8
+#EXTINF:-1 group-title="Voka",Кинеко
+http://46.53.208.4:80/live/1812.m3u8
+#EXTINF:-1 group-title="Voka",НСТ
+http://46.53.208.4:80/live/6008.m3u8
+#EXTINF:-1 group-title="Voka",TV3
+http://46.53.208.4:80/live/5127.m3u8
+#EXTINF:-1 group-title="Voka",ВОПРОСЫ ОТВЕТЫ
+http://46.53.208.4:80/live/1515.m3u8
+#EXTINF:-1 group-title="Voka",RTG TV
+http://46.53.208.4:80/live/131.m3u8
+#EXTINF:-1 group-title="Voka",Нано ТВ
+http://46.53.208.4:80/live/211.m3u8
+#EXTINF:-1 group-title="Voka",Рыбалка и охота
+http://46.53.208.4:80/live/244.m3u8
+#EXTINF:-1 group-title="Voka",Viasat Explore
+http://46.53.208.4:80/live/540.m3u8
+#EXTINF:-1 group-title="Voka",Viasat History
+http://46.53.208.4:80/live/541.m3u8
+#EXTINF:-1 group-title="Voka",Viasat Nature
+http://46.53.208.4:80/live/542.m3u8
+#EXTINF:-1 group-title="Voka",Travel+Adventure HD
+http://46.53.208.4:80/live/964.m3u8
+#EXTINF:-1 group-title="Voka",UNKNOWN PLANET
+http://46.53.208.4:80/live/3006.m3u8
+#EXTINF:-1 group-title="Voka",Точка отрыва
+http://46.53.208.4:80/live/602.m3u8
+#EXTINF:-1 group-title="Voka",RTG HD
+http://46.53.208.4:80/live/1406.m3u8
+#EXTINF:-1 group-title="Voka",Авто 24
+http://46.53.208.4:80/live/588.m3u8
+#EXTINF:-1 group-title="Voka",Домашние животные
+http://46.53.208.4:80/live/2112.m3u8
+#EXTINF:-1 group-title="Voka",БОБЕР
+http://46.53.208.4:80/live/3012.m3u8
+#EXTINF:-1 group-title="Voka",Дикая Рыбалка HD
+http://46.53.208.4:80/live/2324.m3u8
+#EXTINF:-1 group-title="Voka",Дикая охота HD
+http://46.53.208.4:80/live/2325.m3u8
+#EXTINF:-1 group-title="Voka",НАША ТЕМА HD
+http://46.53.208.4:80/live/2103.m3u8
+#EXTINF:-1 group-title="Voka",ЗДОРОВОЕ ТВ
+http://46.53.208.4:80/live/342.m3u8
+#EXTINF:-1 group-title="Voka",Драйв
+http://46.53.208.4:80/live/336.m3u8
+#EXTINF:-1 group-title="Voka",Усадьба
+http://46.53.208.4:80/live/341.m3u8
+#EXTINF:-1 group-title="Voka",Terra HD
+http://46.53.208.4:80/live/1500.m3u8
+#EXTINF:-1 group-title="Voka",Curiosity Stream
+http://46.53.208.4:80/live/994.m3u8
+#EXTINF:-1 group-title="Voka",Зоопарк
+http://46.53.208.4:80/live/996.m3u8
+#EXTINF:-1 group-title="Voka",Наука 2.0
+http://46.53.208.4:80/live/167.m3u8
+#EXTINF:-1 group-title="Voka",LUXURY HD
+http://46.53.208.4:80/live/212.m3u8
+#EXTINF:-1 group-title="Voka",СВЕТЛОЕ ТВ HD
+http://46.53.208.4:80/live/973.m3u8
+#EXTINF:-1 group-title="Voka",VIJU+ PLANET
+http://46.53.208.4:80/live/6001.m3u8
+#EXTINF:-1 group-title="Voka",FUN BOX UHD
+http://46.53.208.4:80/live/3437.m3u8
+#EXTINF:-1 group-title="Voka",Лёва
+http://46.53.208.4:80/live/2424.m3u8
+#EXTINF:-1 group-title="Voka",СТС kids
+http://46.53.208.4:80/live/1448.m3u8
+#EXTINF:-1 group-title="Voka",Киномульт
+http://46.53.208.4:80/live/157.m3u8
+#EXTINF:-1 group-title="Voka",МУЛЬТИ ЛАНДИЯ
+http://46.53.208.4:80/live/5108.m3u8
+#EXTINF:-1 group-title="Voka",УНИКУМ
+http://46.53.208.4:80/live/5512.m3u8
+#EXTINF:-1 group-title="Voka",МУЛЬТ HD
+http://46.53.208.4:80/live/6007.m3u8
+#EXTINF:-1 group-title="Voka",КАРУСЕЛЬ
+http://46.53.208.4:80/live/5123.m3u8
+#EXTINF:-1 group-title="Voka",МУЛЬТФИЛЬМЫ
+http://46.53.208.4:80/live/3007.m3u8
+#EXTINF:-1 group-title="Voka",О!
+http://46.53.208.4:80/live/3013.m3u8
+#EXTINF:-1 group-title="Voka",БОБЕР
+http://46.53.208.4:80/live/3012.m3u8
+#EXTINF:-1 group-title="Voka",Cartoon Classics
+http://46.53.208.4:80/live/1303.m3u8
+#EXTINF:-1 group-title="Voka",Duck TV
+http://46.53.208.4:80/live/1492.m3u8
+#EXTINF:-1 group-title="Voka",EUROPA PLUS TV
+http://46.53.208.4:80/live/963.m3u8
+#EXTINF:-1 group-title="Voka",Bridge HD
+http://46.53.208.4:80/live/110.m3u8
+#EXTINF:-1 group-title="Voka",MMA-TV.COM
+http://46.53.208.4:80/live/2100.m3u8
+#EXTINF:-1 group-title="Voka",Беларусь 5
+http://46.53.208.4:80/live/9.m3u8
+#EXTINF:-1 group-title="Voka",VIJU+ SPORT
+http://46.53.208.4:80/live/6005.m3u8
+#EXTINF:-1 group-title="Voka",СПОРТ ТВ HD
+http://46.53.208.4:80/live/8112.m3u8
+
+#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Hollywood HD
+https://a3569457567-s70378.cdn.ngenix.net/amc/2/index.m3u8
+#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Amedia 1
+https://a3569457567-s70378.cdn.ngenix.net/amedia_1/2/index.m3u8
+#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Amedia 2
+https://a3569457567-s70378.cdn.ngenix.net/amedia_2/2/index.m3u8
+#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Amedia Hit
+https://a3569457567-s70378.cdn.ngenix.net/amedia_hit/2/index.m3u8
+#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Amedia Premium HD
+https://a3569457567-s70378.cdn.ngenix.net/amedia_premium_hd/2/index.m3u8
+#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Bloomberg
+https://a3569457567-s70378.cdn.ngenix.net/bloomberg/2/index.m3u8
+#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", .sci-fi
+https://a3569457567-s70378.cdn.ngenix.net/sony_sci_fi/2/index.m3u8
+#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", .Black
+https://a3569457567-s70378.cdn.ngenix.net/sony_turbo/2/index.m3u8
+#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Индийское кино 
+https://a3569457567-s70378.cdn.ngenix.net/india_tv/1/index.m3u8
+#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",Индия
+https://a3569457567-s70378.cdn.ngenix.net/zee_tv/2/index.m3u8
+#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Наше новое кино
+https://a3569457567-s70378.cdn.ngenix.net/nashe_novoe_kino/1/index.m3u8
+#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Киноужас
+https://a3569457567-s70378.cdn.ngenix.net/kinouzhas/1/index.m3u8
+#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Киносерия
+https://a3569457567-s70378.cdn.ngenix.net/mnogo_tv/1/index.m3u8
+#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Киносвидание 
+https://a3569457567-s70378.cdn.ngenix.net/kinoklub/1/index.m3u8
+#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Дом Кино Премиум
+https://a3569457567-s70378.cdn.ngenix.net/dom_kino_premium_hd/3/index.m3u8
+#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", ТВ3
+https://a3569457567-s70378.cdn.ngenix.net/tv_3/2/index.m3u8
+#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", TV XXI
+https://a3569457567-s70378.cdn.ngenix.net/tv_xxi/2/index.m3u8
+#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", VIP Comedy
+https://a3569457567-s70378.cdn.ngenix.net/vip_comedy/2/index.m3u8
+#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", VIP Megahit
+https://a3569457567-s70378.cdn.ngenix.net/vip_megahit/2/index.m3u8
+#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", VIP Premiere
+https://a3569457567-s70378.cdn.ngenix.net/vip_premiere/2/index.m3u8
+#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", VIP Serial
+https://a3569457567-s70378.cdn.ngenix.net/vip_serial/2/index.m3u8
+#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Дом Кино
+https://a3569457567-s70378.cdn.ngenix.net/dom_kino/1/index.m3u8
+#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Euronews
+https://a3569457567-s70378.cdn.ngenix.net/euronews/1/index.m3u8
+#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Еврокино
+https://a3569457567-s70378.cdn.ngenix.net/evrokino/1/index.m3u8
+#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Мир сериала 
+https://a3569457567-s70378.cdn.ngenix.net/mir_seriala/1/index.m3u8
+#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Filmbox
+https://a3569457567-s70378.cdn.ngenix.net/filmbox/1/index.m3u8
+#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Filmbox Arthouse
+https://a3569457567-s70378.cdn.ngenix.net/filmbox_arthouse/1/index.m3u8
+#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Fox life
+https://a3569457567-s70378.cdn.ngenix.net/fox_life/1/index.m3u8
+#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Иллюзион+
+https://a3569457567-s70378.cdn.ngenix.net/illusion_plus/1/index.m3u8
+#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", kinoman
+https://a3569457567-s70378.cdn.ngenix.net/kinoman/1/index.m3u8
+#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Ностальгия 
+https://a3569457567-s70378.cdn.ngenix.net/nostalgia/1/index.m3u8
+#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", National geographic
+https://a3569457567-s70378.cdn.ngenix.net/national_geographic/1/index.m3u8
+#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Terra
+https://a3569457567-s70378.cdn.ngenix.net/terra/2/index.m3u8
+#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Ocean TV
+https://a3569457567-s70378.cdn.ngenix.net/ocean_tv/1/index.m3u8
+#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",History
+https://a3569457567-s70378.cdn.ngenix.net/history/1/index.m3u8
+#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", H2
+https://a3569457567-s70378.cdn.ngenix.net/history_2/1/index.m3u8
+#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Дикий 
+https://a3569457567-s70378.cdn.ngenix.net/dikiy/1/index.m3u8
+#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", RTG HD
+https://a3569457567-s70378.cdn.ngenix.net/rtg_hd/1/index.m3u8
+#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Зоопарк
+https://a3569457567-s70378.cdn.ngenix.net/zoopark/2/index.m3u8
+#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", DocuBox
+https://a3569457567-s70378.cdn.ngenix.net/docubox/1/index.m3u8
+#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Galaxy
+https://a3569457567-s70378.cdn.ngenix.net/galaxy/1/index.m3u8
+#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Глазами туриста
+https://a3569457567-s70378.cdn.ngenix.net/glazami_turista/1/index.m3u8
+#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Travel+Adventure
+https://a3569457567-s70378.cdn.ngenix.net/travel_and_adventure/2/index.m3u8
+#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", The explorers
+https://a3569457567-s70378.cdn.ngenix.net/the_explorers/2/index.m3u8
+#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Viasat Explore
+https://a3569457567-s70378.cdn.ngenix.net/viasat_explore/2/index.m3u8
+#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Viasat History
+https://a3569457567-s70378.cdn.ngenix.net/viasat_history/2/index.m3u8
+#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Viasat Nature
+https://a3569457567-s70378.cdn.ngenix.net/viasat_nature/2/index.m3u8
+#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Baby TV
+https://a3569457567-s70378.cdn.ngenix.net/baby_tv/2/index.m3u8
+#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Tiji
+https://a3569457567-s70378.cdn.ngenix.net/tiji/2/index.m3u8
+#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", СТС Kids
+https://a3569457567-s70378.cdn.ngenix.net/ctc_kids/1/index.m3u8
+#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Nickelodeon
+https://a3569457567-s70378.cdn.ngenix.net/nickelodeon/1/index.m3u8
+#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Nicktoons
+https://a3569457567-s70378.cdn.ngenix.net/nicktoons/1/index.m3u8
+#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Малыш
+https://a3569457567-s70378.cdn.ngenix.net/malish/1/index.m3u8
+#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",Gulli Girl
+https://a3569457567-s70378.cdn.ngenix.net/gulli/1/index.m3u8
+#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Карусель 
+https://a3569457567-s70378.cdn.ngenix.net/karusel/1/index.m3u8
+#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Da Vinci
+https://a3569457567-s70378.cdn.ngenix.net/da_vinci/1/index.m3u8
+#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Детский мир
+https://a3569457567-s70378.cdn.ngenix.net/detskij_mir/1/index.m3u8
