@@ -918,180 +918,184 @@ http://dmi3y-tv6.ru/hls/blrus/CH_1INFORMATSYONNY.m3u8
 #EXTINF:-1 group-title="Беларусь",СТВ HD720
 http://dmi3y-tv6.ru/hls/blrus/CH_CTBHD720.m3u8
 
-#EXTINF:-1 group-title="Voka",Киносат
-http://46.53.208.4:80/live/59.m3u8
-#EXTINF:-1 group-title="Voka",Epic
-http://46.53.208.4:80/live/171.m3u8
-#EXTINF:-1 group-title="Voka",.Sci-Fi
-http://46.53.208.4:80/live/207.m3u8
-#EXTINF:-1 group-title="Voka",.BLACK
-http://46.53.208.4:80/live/3001.m3u8
-#EXTINF:-1 group-title="Voka",.Red
-http://46.53.208.4:80/live/1400.m3u8
-#EXTINF:-1 group-title="Voka",Наше ТВ
-http://46.53.208.4:80/live/218.m3u8
-#EXTINF:-1 group-title="Voka",Кинопоказ HD
-http://46.53.208.4:80/live/285.m3u8
-#EXTINF:-1 group-title="Voka",Феникс+кино
-http://46.53.208.4:80/live/332.m3u8
-#EXTINF:-1 group-title="Voka",Ретро
-http://46.53.208.4:80/live/335.m3u8
-#EXTINF:-1 group-title="Voka",Viju TV1000
-http://46.53.208.4:80/live/5107.m3u8
-#EXTINF:-1 group-title="Voka",Viju TV1000 action
-http://46.53.208.4:80/live/5106.m3u8
-#EXTINF:-1 group-title="Voka",Viju TV1000 Новелла HD
-http://46.53.208.4:80/live/545.m3u8
-#EXTINF:-1 group-title="Voka",Viju TV1000 romantica
-http://46.53.208.4:80/live/3111.m3u8
-#EXTINF:-1 group-title="Voka",Viju TV1000 КИНО
-http://46.53.208.4:80/live/5109.m3u8
-#EXTINF:-1 group-title="Voka",VIJU+ COMEDY
-http://46.53.208.4:80/live/6003.m3u8
-#EXTINF:-1 group-title="Voka",VIJU+ MEGAHIT
-http://46.53.208.4:80/live/6002.m3u8
-#EXTINF:-1 group-title="Voka",VIJU+ PREMIERE
-http://46.53.208.4:80/live/6001.m3u8
-#EXTINF:-1 group-title="Voka",VIJU+ SERIAL
-http://46.53.208.4:80/live/6004.m3u8
-#EXTINF:-1 group-title="Voka",Ultra HD Cinema
-http://46.53.208.4:80/live/1042.m3u8
-#EXTINF:-1 group-title="Voka",VHS-ка
-http://46.53.208.4:80/live/1123.m3u8
-#EXTINF:-1 group-title="Voka",TV XXI
-http://46.53.208.4:80/live/2018.m3u8
-#EXTINF:-1 group-title="Voka",Cinema
-http://46.53.208.4:80/live/2092.m3u8
-#EXTINF:-1 group-title="Voka",Иллюзион+
-http://46.53.208.4:80/live/603.m3u8
-#EXTINF:-1 group-title="Voka",Иллюзион
-http://46.53.208.4:80/live/616.m3u8
-#EXTINF:-1 group-title="Voka",Иллюзион HD
-http://46.53.208.4:80/live/869.m3u8
-#EXTINF:-1 group-title="Voka",Еврокино
-http://46.53.208.4:80/live/903.m3u8
-#EXTINF:-1 group-title="Voka",ТВ СИНЕМА HD
-http://46.53.208.4:80/live/3870.m3u8
-#EXTINF:-1 group-title="Voka",МУВИ ТВ
-http://46.53.208.4:80/live/5007.m3u8
-#EXTINF:-1 group-title="Voka",Домашний
-http://46.53.208.4:80/live/961.m3u8
-#EXTINF:-1 group-title="Voka",Дом кино
-http://46.53.208.4:80/live/5105.m3u8
-#EXTINF:-1 group-title="Voka",ДОМ КИНО ПРЕМИУМ
-http://46.53.208.4:80/live/5111.m3u8
-#EXTINF:-1 group-title="Voka",START WORLD HD
-http://46.53.208.4:80/live/9011.m3u8
-#EXTINF:-1 group-title="Voka",Перец
-http://46.53.208.4:80/live/971.m3u8
-#EXTINF:-1 group-title="Voka",Золотая коллекция
-http://46.53.208.4:80/live/1124.m3u8
-#EXTINF:-1 group-title="Voka",Советское кино
-http://46.53.208.4:80/live/3018.m3u8
-#EXTINF:-1 group-title="Voka",КЛАСИКА КИНО
-http://46.53.208.4:80/live/3006.m3u8
-#EXTINF:-1 group-title="Voka",Novella TV
-http://46.53.208.4:80/live/1205.m3u8
-#EXTINF:-1 group-title="Voka",Start Air
-http://46.53.208.4:80/live/1804.m3u8
-#EXTINF:-1 group-title="Voka",Кинеко
-http://46.53.208.4:80/live/1812.m3u8
-#EXTINF:-1 group-title="Voka",НСТ
-http://46.53.208.4:80/live/6008.m3u8
-#EXTINF:-1 group-title="Voka",TV3
-http://46.53.208.4:80/live/5127.m3u8
-#EXTINF:-1 group-title="Voka",ВОПРОСЫ ОТВЕТЫ
-http://46.53.208.4:80/live/1515.m3u8
-#EXTINF:-1 group-title="Voka",RTG TV
-http://46.53.208.4:80/live/131.m3u8
-#EXTINF:-1 group-title="Voka",Нано ТВ
-http://46.53.208.4:80/live/211.m3u8
-#EXTINF:-1 group-title="Voka",Рыбалка и охота
-http://46.53.208.4:80/live/244.m3u8
-#EXTINF:-1 group-title="Voka",Viasat Explore
-http://46.53.208.4:80/live/540.m3u8
-#EXTINF:-1 group-title="Voka",Viasat History
-http://46.53.208.4:80/live/541.m3u8
-#EXTINF:-1 group-title="Voka",Viasat Nature
-http://46.53.208.4:80/live/542.m3u8
-#EXTINF:-1 group-title="Voka",Travel+Adventure HD
-http://46.53.208.4:80/live/964.m3u8
-#EXTINF:-1 group-title="Voka",UNKNOWN PLANET
-http://46.53.208.4:80/live/3006.m3u8
-#EXTINF:-1 group-title="Voka",Точка отрыва
-http://46.53.208.4:80/live/602.m3u8
-#EXTINF:-1 group-title="Voka",RTG HD
-http://46.53.208.4:80/live/1406.m3u8
-#EXTINF:-1 group-title="Voka",Авто 24
-http://46.53.208.4:80/live/588.m3u8
-#EXTINF:-1 group-title="Voka",Домашние животные
-http://46.53.208.4:80/live/2112.m3u8
-#EXTINF:-1 group-title="Voka",БОБЕР
-http://46.53.208.4:80/live/3012.m3u8
-#EXTINF:-1 group-title="Voka",Дикая Рыбалка HD
-http://46.53.208.4:80/live/2324.m3u8
-#EXTINF:-1 group-title="Voka",Дикая охота HD
-http://46.53.208.4:80/live/2325.m3u8
-#EXTINF:-1 group-title="Voka",НАША ТЕМА HD
-http://46.53.208.4:80/live/2103.m3u8
-#EXTINF:-1 group-title="Voka",ЗДОРОВОЕ ТВ
-http://46.53.208.4:80/live/342.m3u8
-#EXTINF:-1 group-title="Voka",Драйв
-http://46.53.208.4:80/live/336.m3u8
-#EXTINF:-1 group-title="Voka",Усадьба
-http://46.53.208.4:80/live/341.m3u8
-#EXTINF:-1 group-title="Voka",Terra HD
-http://46.53.208.4:80/live/1500.m3u8
-#EXTINF:-1 group-title="Voka",Curiosity Stream
-http://46.53.208.4:80/live/994.m3u8
-#EXTINF:-1 group-title="Voka",Зоопарк
-http://46.53.208.4:80/live/996.m3u8
-#EXTINF:-1 group-title="Voka",Наука 2.0
-http://46.53.208.4:80/live/167.m3u8
-#EXTINF:-1 group-title="Voka",LUXURY HD
-http://46.53.208.4:80/live/212.m3u8
-#EXTINF:-1 group-title="Voka",СВЕТЛОЕ ТВ HD
-http://46.53.208.4:80/live/973.m3u8
-#EXTINF:-1 group-title="Voka",VIJU+ PLANET
-http://46.53.208.4:80/live/6001.m3u8
-#EXTINF:-1 group-title="Voka",FUN BOX UHD
-http://46.53.208.4:80/live/3437.m3u8
-#EXTINF:-1 group-title="Voka",Лёва
-http://46.53.208.4:80/live/2424.m3u8
-#EXTINF:-1 group-title="Voka",СТС kids
-http://46.53.208.4:80/live/1448.m3u8
-#EXTINF:-1 group-title="Voka",Киномульт
-http://46.53.208.4:80/live/157.m3u8
-#EXTINF:-1 group-title="Voka",МУЛЬТИ ЛАНДИЯ
-http://46.53.208.4:80/live/5108.m3u8
-#EXTINF:-1 group-title="Voka",УНИКУМ
-http://46.53.208.4:80/live/5512.m3u8
-#EXTINF:-1 group-title="Voka",МУЛЬТ HD
-http://46.53.208.4:80/live/6007.m3u8
-#EXTINF:-1 group-title="Voka",КАРУСЕЛЬ
-http://46.53.208.4:80/live/5123.m3u8
-#EXTINF:-1 group-title="Voka",МУЛЬТФИЛЬМЫ
-http://46.53.208.4:80/live/3007.m3u8
-#EXTINF:-1 group-title="Voka",О!
-http://46.53.208.4:80/live/3013.m3u8
-#EXTINF:-1 group-title="Voka",БОБЕР
-http://46.53.208.4:80/live/3012.m3u8
-#EXTINF:-1 group-title="Voka",Cartoon Classics
-http://46.53.208.4:80/live/1303.m3u8
-#EXTINF:-1 group-title="Voka",Duck TV
-http://46.53.208.4:80/live/1492.m3u8
-#EXTINF:-1 group-title="Voka",EUROPA PLUS TV
-http://46.53.208.4:80/live/963.m3u8
-#EXTINF:-1 group-title="Voka",Bridge HD
-http://46.53.208.4:80/live/110.m3u8
-#EXTINF:-1 group-title="Voka",MMA-TV.COM
-http://46.53.208.4:80/live/2100.m3u8
-#EXTINF:-1 group-title="Voka",Беларусь 5
-http://46.53.208.4:80/live/9.m3u8
-#EXTINF:-1 group-title="Voka",VIJU+ SPORT
-http://46.53.208.4:80/live/6005.m3u8
-#EXTINF:-1 group-title="Voka",СПОРТ ТВ HD
-http://46.53.208.4:80/live/8112.m3u8
+#EXTINF:-1 group-title="IZONE", Кухня ТВ
+http://46.32.176.50/kuxnyatv/index.m3u8
+#EXTINF:-1 group-title="IZONE", Домашние Животные
+http://46.32.176.50/domashniejivotnie/index.m3u8
+#EXTINF:-1 group-title="IZONE", Поехали!
+http://46.32.176.50/poexali/index.m3u8
+#EXTINF:-1 group-title="IZONE", Телекафе
+http://46.32.176.50/telekafe/index.m3u8
+#EXTINF:-1 group-title="IZONE", Живая Планета
+http://46.32.176.50/jivayaplaneta/index.m3u8
+#EXTINF:-1 group-title="IZONE", Авто24
+http://46.32.176.50/avto24/index.m3u8
+#EXTINF:-1 group-title="IZONE", Авто Плюс
+http://46.32.176.50/avtoplyus/index.m3u8
+#EXTINF:-1 group-title="IZONE", Наука
+http://46.32.176.50/nauka/index.m3u8
+#EXTINF:-1 group-title="IZONE", Моя планета
+http://46.32.176.50/moyaplaneta/index.m3u8
+#EXTINF:-1 group-title="IZONE", Big Planet 
+http://46.32.176.50/bigplanet/index.m3u8
+#EXTINF:-1 group-title="IZONE", Animal Planet
+http://46.32.176.50/animalplanet/index.m3u8
+#EXTINF:-1 group-title="IZONE", Animal Planet HD
+http://46.32.176.50/AnimalPlanetHD/index.m3u8
+#EXTINF:-1 group-title="IZONE", Viasat explore
+http://46.32.176.50/viasatexplorer/index.m3u8
+#EXTINF:-1 group-title="IZONE", Viasat history
+http://46.32.176.50/viasathistory/index.m3u8
+#EXTINF:-1 group-title="IZONE", Viasat Nature
+http://46.32.176.50/viasatnature/index.m3u8
+#EXTINF:-1 group-title="IZONE", Viasat Nature HD
+http://46.32.176.50/ViasatNatureHD/index.m3u8
+#EXTINF:-1 group-title="IZONE", Дикий
+http://46.32.176.50/dikiy/index.m3u8
+#EXTINF:-1 group-title="IZONE", History HD
+http://46.32.176.50/HistoryHD/index.m3u8
+#EXTINF:-1 group-title="IZONE", TLC
+http://46.32.176.50/tlc/index.m3u8
+#EXTINF:-1 group-title="IZONE", Охота и Рыбалка
+http://46.32.176.50/oxotoiribalka/index.m3u8
+#EXTINF:-1 group-title="IZONE", Nat Geo Wild HD
+http://46.32.176.50/NatGeoWildHD/index.m3u8
+#EXTINF:-1 group-title="IZONE", Nat Geo Wild 
+http://46.32.176.50/natgeowild/index.m3u8
+#EXTINF:-1 group-title="IZONE", Discovery Channel
+http://46.32.176.50/discoverychannel/index.m3u8
+#EXTINF:-1 group-title="IZONE", Discovery Channel HD
+http://46.32.176.50/discoverychannel/index.m3u8
+#EXTINF:-1 group-title="IZONE", National Geographic
+http://46.32.176.50/nationalgeographic/index.m3u8
+#EXTINF:-1 group-title="IZONE", National Geographic HD
+http://46.32.176.50/NationalGeographicHD/index.m3u8
+#EXTINF:-1 group-title="IZONE", Зоопарк
+http://46.32.176.50/zoopark/index.m3u8
+#EXTINF:-1 group-title="IZONE", TV 1000
+http://46.32.176.50/tv1000/index.m3u8
+#EXTINF:-1 group-title="IZONE", TV 1000 Action
+http://46.32.176.50/tv1000action/index.m3u8
+#EXTINF:-1 group-title="IZONE", Иллюзион+
+http://46.32.176.50/illuzion/index.m3u8
+#EXTINF:-1 group-title="IZONE",  Иллюзион
+http://46.32.176.50/russkiyiluzion/index.m3u8
+#EXTINF:-1 group-title="IZONE", Еврокино
+http://46.32.176.50/eurokino/index.m3u8
+#EXTINF:-1 group-title="IZONE", Мир сериала
+http://46.32.176.50/mirseriala/index.m3u8
+#EXTINF:-1 group-title="IZONE", Мужское кино HD
+http://46.32.176.50/MujskoeKinoHD/index.m3u8
+#EXTINF:-1 group-title="IZONE", Hollywood HD
+http://46.32.176.50/HollywoodHD/index.m3u8
+#EXTINF:-1 group-title="IZONE", VIP Megahit HD
+http://46.32.176.50/VIPMegahitHD/index.m3u8
+#EXTINF:-1 group-title="IZONE", VIP Premiere HD
+http://46.32.176.50/VIPPremiereHD/index.m3u8
+#EXTINF:-1 group-title="IZONE", VIP Comedy HD
+http://46.32.176.50/VIPComedyHD/index.m3u8
+#EXTINF:-1 group-title="IZONE", VIP Serial HD
+http://46.32.176.50/ViasatSportHD/index.m3u8
+#EXTINF:-1 group-title="IZONE", Дом кино
+http://46.32.176.50/domkino/index.m3u8
+#EXTINF:-1 group-title="IZONE", Дом Кино Премиум HD
+http://46.32.176.50/DomKinoPremiumHD/index.m3u8
+#EXTINF:-1 group-title="IZONE", НСТ
+http://46.32.176.50/nst/index.m3u8
+#EXTINF:-1 group-title="IZONE", .Black
+http://46.32.176.50/sonyturbo/index.m3u8
+#EXTINF:-1 group-title="IZONE", .Sci-Fi
+http://46.32.176.50/sonyscifi/index.m3u8
+#EXTINF:-1 group-title="IZONE", TV XXI
+http://46.32.176.50/tv21/index.m3u8
+#EXTINF:-1 group-title="IZONE", Plan B
+http://46.32.176.50/paramountchannel/index.m3u8
+#EXTINF:-1 group-title="IZONE",  Детектив
+http://46.32.176.50/russkiydetektiv/index.m3u8
+#EXTINF:-1 group-title="IZONE",  Роман
+http://46.32.176.50/russkiyroman/index.m3u8
+#EXTINF:-1 group-title="IZONE", Кинохит
+http://46.32.176.50/kinoxit/index.m3u8
+#EXTINF:-1 group-title="IZONE", Киносерия HD
+http://46.32.176.50/kinoseria/index.m3u8
+#EXTINF:-1 group-title="IZONE", Киномикс HD
+http://46.32.176.50/kinomiks/index.m3u8
+#EXTINF:-1 group-title="IZONE", Киносемья HD
+http://46.32.176.50/kinosemya/index.m3u8
+#EXTINF:-1 group-title="IZONE", Кинокомедия
+http://46.32.176.50/kinokomedia/index.m3u8
+#EXTINF:-1 group-title="IZONE", Индийское Кино
+http://46.32.176.50/indiskoekino/index.m3u8
+#EXTINF:-1 group-title="IZONE", Киносвидание
+http://46.32.176.50/kinosvidanie/index.m3u8
+#EXTINF:-1 group-title="IZONE", Родное Кино
+http://46.32.176.50/rodnoekino/index.m3u8
+#EXTINF:-1 group-title="IZONE", Amedia 1
+http://46.32.176.50/amedia1/index.m3u8
+#EXTINF:-1 group-title="IZONE", Amedia 2
+http://46.32.176.50/amedia2/index.m3u8
+#EXTINF:-1 group-title="IZONE", Amedia Hit
+http://46.32.176.50/amediahit/index.m3u8
+#EXTINF:-1 group-title="IZONE", Amedia Premium
+http://46.32.176.50/AmediaPremium/index.m3u8
+#EXTINF:-1 group-title="IZONE", Amedia Premium HD
+http://46.32.176.50/AmediaPremiumHD/index.m3u8
+#EXTINF:-1 group-title="IZONE", Любимое Кино
+http://46.32.176.50/lubimoekino/index.m3u8
+#EXTINF:-1 group-title="IZONE", Кинеко
+http://46.32.176.50/foxrussia/index.m3u8
+#EXTINF:-1 group-title="IZONE", ТВ3
+http://46.32.176.50/tv3/index.m3u8
+#EXTINF:-1 group-title="IZONE", Че
+http://46.32.176.50/ce/index.m3u8
+#EXTINF:-1 group-title="IZONE", Euronews
+http://46.32.176.50/euronews/index.m3u8
+#EXTINF:-1 group-title="IZONE", Домашний
+http://46.32.176.50/domashniy/index.m3u8
+#EXTINF:-1 group-title="IZONE", Ностальгия
+http://46.32.176.50/nostalgiya/index.m3u8
+#EXTINF:-1 group-title="IZONE", Уникум
+http://46.32.176.50/detskiy/index.m3u8
+#EXTINF:-1 group-title="IZONE", Бобер
+http://46.32.176.50/bobertv/index.m3u8
+#EXTINF:-1 group-title="IZONE", Солнце
+http://46.32.176.50/solnce/index.m3u8
+#EXTINF:-1 group-title="IZONE", Суббота
+http://46.32.176.50/subbota/index.m3u8
+#EXTINF:-1 group-title="IZONE", Детский Мир HD
+http://46.32.176.50/detskiymir/index.m3u8
+#EXTINF:-1 group-title="IZONE", Мама
+http://46.32.176.50/mama/index.m3u8
+#EXTINF:-1 group-title="IZONE", Мульт
+http://46.32.176.50/mult/index.m3u8
+#EXTINF:-1 group-title="IZONE", Мульт HD
+http://46.32.176.50/MultHD/index.m3u8
+#EXTINF:-1 group-title="IZONE", 2x2
+http://46.32.176.50/2x2/index.m3u8
+#EXTINF:-1 group-title="IZONE", Ani
+http://46.32.176.50/anitv/index.m3u8
+#EXTINF:-1 group-title="IZONE", Карусель
+http://46.32.176.50/karusel/index.m3u8
+#EXTINF:-1 group-title="IZONE", Nick jr
+http://46.32.176.50/nickelodeonjunior/index.m3u8
+#EXTINF:-1 group-title="IZONE", Матч ТВ
+http://46.32.176.50/matchtv/index.m3u8
+#EXTINF:-1 group-title="IZONE", Матч HD
+http://46.32.176.50/MatchTVHD/index.m3u8
+#EXTINF:-1 group-title="IZONE", Eurosport 2
+http://46.32.176.50/eurosport2/index.m3u8
+#EXTINF:-1 group-title="IZONE", Матч! Игра
+http://46.32.176.50/matchiqra/index.m3u8
+#EXTINF:-1 group-title="IZONE", Матч! Арена HD
+http://46.32.176.50/MatchArenaHD/index.m3u8
+#EXTINF:-1 group-title="IZONE", Viasat Sport
+http://46.32.176.50/viasatsport/index.m3u8
+#EXTINF:-1 group-title="IZONE", Бокс ТВ
+http://46.32.176.50/bokstv/index.m3u8
+#EXTINF:-1 group-title="IZONE", KHL
+http://46.32.176.50/kxltv/index.m3u8
+#EXTINF:-1 group-title="IZONE", Extreme Sports
+http://46.32.176.50/extremesport/index.m3u8
 
 #EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Hollywood HD
 https://a3569457567-s70378.cdn.ngenix.net/amc/2/index.m3u8
