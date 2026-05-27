@@ -889,8 +889,6 @@ https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_YAMREG_URAL_YNF/variant
 http://dmi3y-tv6.ru/hls/blrus/CH_BELARUS24HD.m3u8
 #EXTINF:-1 group-title="Беларусь",Беларусь 24
 http://dmi3y-tv6.ru/hls/blrus/CH_BELARUS24.m3u8
-#EXTINF:-1 group-title="Беларусь",Звязда
-http://tinyurl.com/TvvZaTak/6238-req_offset_28000000-req_window_0-3k_v5.m3u8?|User-Agent=http-user-agent=Lavf53.32.100
 #EXTINF:-1 group-title="Беларусь",ОНТ HD
 http://dmi3y-tv6.ru/hls/blrus/CH_OHTHD.m3u8
 #EXTINF:-1 group-title="Беларусь",БелРос
@@ -1097,117 +1095,113 @@ http://46.32.176.50/kxltv/index.m3u8
 #EXTINF:-1 group-title="IZONE", Extreme Sports
 http://46.32.176.50/extremesport/index.m3u8
 
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Hollywood HD
-https://a3569457567-s70378.cdn.ngenix.net/amc/2/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Amedia 1
-https://a3569457567-s70378.cdn.ngenix.net/amedia_1/2/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Amedia 2
-https://a3569457567-s70378.cdn.ngenix.net/amedia_2/2/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Amedia Hit
-https://a3569457567-s70378.cdn.ngenix.net/amedia_hit/2/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Amedia Premium HD
-https://a3569457567-s70378.cdn.ngenix.net/amedia_premium_hd/2/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Bloomberg
-https://a3569457567-s70378.cdn.ngenix.net/bloomberg/2/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", .sci-fi
-https://a3569457567-s70378.cdn.ngenix.net/sony_sci_fi/2/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", .Black
-https://a3569457567-s70378.cdn.ngenix.net/sony_turbo/2/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Индийское кино 
-https://a3569457567-s70378.cdn.ngenix.net/india_tv/1/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",Индия
-https://a3569457567-s70378.cdn.ngenix.net/zee_tv/2/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Наше новое кино
-https://a3569457567-s70378.cdn.ngenix.net/nashe_novoe_kino/1/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Киноужас
-https://a3569457567-s70378.cdn.ngenix.net/kinouzhas/1/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Киносерия
-https://a3569457567-s70378.cdn.ngenix.net/mnogo_tv/1/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Киносвидание 
-https://a3569457567-s70378.cdn.ngenix.net/kinoklub/1/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Дом Кино Премиум
-https://a3569457567-s70378.cdn.ngenix.net/dom_kino_premium_hd/3/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", ТВ3
-https://a3569457567-s70378.cdn.ngenix.net/tv_3/2/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", TV XXI
-https://a3569457567-s70378.cdn.ngenix.net/tv_xxi/2/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", VIP Comedy
-https://a3569457567-s70378.cdn.ngenix.net/vip_comedy/2/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", VIP Megahit
-https://a3569457567-s70378.cdn.ngenix.net/vip_megahit/2/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", VIP Premiere
-https://a3569457567-s70378.cdn.ngenix.net/vip_premiere/2/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", VIP Serial
-https://a3569457567-s70378.cdn.ngenix.net/vip_serial/2/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Дом Кино
-https://a3569457567-s70378.cdn.ngenix.net/dom_kino/1/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Euronews
-https://a3569457567-s70378.cdn.ngenix.net/euronews/1/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Еврокино
-https://a3569457567-s70378.cdn.ngenix.net/evrokino/1/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Мир сериала 
-https://a3569457567-s70378.cdn.ngenix.net/mir_seriala/1/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Filmbox
-https://a3569457567-s70378.cdn.ngenix.net/filmbox/1/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Filmbox Arthouse
-https://a3569457567-s70378.cdn.ngenix.net/filmbox_arthouse/1/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Fox life
-https://a3569457567-s70378.cdn.ngenix.net/fox_life/1/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Иллюзион+
-https://a3569457567-s70378.cdn.ngenix.net/illusion_plus/1/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", kinoman
-https://a3569457567-s70378.cdn.ngenix.net/kinoman/1/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Ностальгия 
-https://a3569457567-s70378.cdn.ngenix.net/nostalgia/1/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", National geographic
-https://a3569457567-s70378.cdn.ngenix.net/national_geographic/1/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Terra
-https://a3569457567-s70378.cdn.ngenix.net/terra/2/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Ocean TV
-https://a3569457567-s70378.cdn.ngenix.net/ocean_tv/1/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",History
-https://a3569457567-s70378.cdn.ngenix.net/history/1/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", H2
-https://a3569457567-s70378.cdn.ngenix.net/history_2/1/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Дикий 
-https://a3569457567-s70378.cdn.ngenix.net/dikiy/1/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", RTG HD
-https://a3569457567-s70378.cdn.ngenix.net/rtg_hd/1/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Зоопарк
-https://a3569457567-s70378.cdn.ngenix.net/zoopark/2/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", DocuBox
-https://a3569457567-s70378.cdn.ngenix.net/docubox/1/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Galaxy
-https://a3569457567-s70378.cdn.ngenix.net/galaxy/1/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Глазами туриста
-https://a3569457567-s70378.cdn.ngenix.net/glazami_turista/1/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Travel+Adventure
-https://a3569457567-s70378.cdn.ngenix.net/travel_and_adventure/2/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", The explorers
-https://a3569457567-s70378.cdn.ngenix.net/the_explorers/2/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Viasat Explore
-https://a3569457567-s70378.cdn.ngenix.net/viasat_explore/2/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Viasat History
-https://a3569457567-s70378.cdn.ngenix.net/viasat_history/2/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Viasat Nature
-https://a3569457567-s70378.cdn.ngenix.net/viasat_nature/2/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Baby TV
-https://a3569457567-s70378.cdn.ngenix.net/baby_tv/2/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Tiji
-https://a3569457567-s70378.cdn.ngenix.net/tiji/2/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", СТС Kids
-https://a3569457567-s70378.cdn.ngenix.net/ctc_kids/1/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Nickelodeon
-https://a3569457567-s70378.cdn.ngenix.net/nickelodeon/1/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Nicktoons
-https://a3569457567-s70378.cdn.ngenix.net/nicktoons/1/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Малыш
-https://a3569457567-s70378.cdn.ngenix.net/malish/1/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",Gulli Girl
-https://a3569457567-s70378.cdn.ngenix.net/gulli/1/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Карусель 
-https://a3569457567-s70378.cdn.ngenix.net/karusel/1/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Da Vinci
-https://a3569457567-s70378.cdn.ngenix.net/da_vinci/1/index.m3u8
-#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Детский мир
-https://a3569457567-s70378.cdn.ngenix.net/detskij_mir/1/index.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN)",TV1000
+https://flussonic.mkpnet.ru/tv-aab84159a39fbe84/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN)",TV1000 кино
+https://flussonic.mkpnet.ru/tv-7510472b0133abb2/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN)",TV1000 Action
+https://flussonic.mkpnet.ru/tv-0991ea2ac6292de8/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN)",Vip Comedy
+https://flussonic.mkpnet.ru/tv-c385ec3bab3a3605/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN)",VIP Megahit HD
+https://flussonic.mkpnet.ru/tv-3d1cedf99303d057/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN)",Vip Premiere
+https://flussonic.mkpnet.ru/tv-e107d21a90cb808f/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN)",Киносат
+https://flussonic.mkpnet.ru/tv-e055808223a74709/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN)",Киносвидание
+https://flussonic.mkpnet.ru/tv-be2ba983babad866/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN)",КиноХит
+https://flussonic.mkpnet.ru/tv-513b9c22f4277475/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN)",.sci-fi
+https://flussonic.mkpnet.ru/tv-e80cc885d4ae14d1/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN)",Amedia 2
+https://flussonic.mkpnet.ru/tv-cad19a32f4a82824/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN)",Amedia Hit
+https://flussonic.mkpnet.ru/tv-8f04998179283ee5/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN)", Русский Бестселлер
+https://flussonic.mkpnet.ru/tv-ccf8c891702508a7/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN)", Русский Детектив
+https://flussonic.mkpnet.ru/tv-2997fed720614567/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN)", Русский Роман
+https://flussonic.mkpnet.ru/tv-c90a71c34cc779ac/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN)",ТВ3
+https://flussonic.mkpnet.ru/tv-b9ddf7deb3d25757/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN)",Пятница
+https://flussonic.mkpnet.ru/tv-7d5e5db805057e8f/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN)",Че
+https://flussonic.mkpnet.ru/tv-cf5a26a180f402ef/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN)",СТС
+https://flussonic.mkpnet.ru/tv-9cb92ea0862cd7b0/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN)",СТС Love
+https://flussonic.mkpnet.ru/tv-b9f0884f9a81b8c6/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN)",Суббота
+https://flussonic.mkpnet.ru/tv-2e0a7cc949958b60/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN)",8 Канал
+https://flussonic.mkpnet.ru/tv-a308d006109b1c1f/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN)",Домашний
+https://flussonic.mkpnet.ru/tv-b515ccce67923f8a/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN)",Viasat Explore
+https://flussonic.mkpnet.ru/tv-7c57a4c3f9a896ea/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN)",Viasat History
+https://flussonic.mkpnet.ru/tv-687ba838ca927b9a/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN)",Viasat Nature
+https://flussonic.mkpnet.ru/tv-7a85ea25208f5bf7/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN)",Большая Азия
+https://flussonic.mkpnet.ru/tv-d5d21f78cdf69c47/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN)",Загородная жизнь
+https://flussonic.mkpnet.ru/tv-a651b413f5cb4c44/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN)",Моя Планета
+https://flussonic.mkpnet.ru/tv-6febc5aecf84848d/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN)",Авто 24
+https://flussonic.mkpnet.ru/tv-a5fa84789fc4add5/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN)",Жара
+https://flussonic.mkpnet.ru/tv-3cdc33d3606ba23f/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN)",Живи Активно
+https://flussonic.mkpnet.ru/tv-fa810958620d77d8/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN)",Здоровое ТВ
+https://flussonic.mkpnet.ru/tv-92fa9d648cab0f3f/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN)",Мужской
+https://flussonic.mkpnet.ru/tv-55c94e838b306657/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN)",Продвижение
+https://flussonic.mkpnet.ru/tv-86cc4bfff941b275/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN)",Точка Отрыва
+https://flussonic.mkpnet.ru/tv-025f6f42ae5bcfc6/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN)",Точка ТВ
+https://flussonic.mkpnet.ru/tv-297099e2d5179304/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN)",Ю
+https://flussonic.mkpnet.ru/tv-3b21847ece4b1c19/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN)",Солнце
+https://flussonic.mkpnet.ru/tv-ac43800065b9b1b7/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN)",2x2
+https://flussonic.mkpnet.ru/tv-17540fb90079a865/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN)",Мульт
+https://flussonic.mkpnet.ru/tv-c8b065a591077c26/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN)",Бобёр
+https://flussonic.mkpnet.ru/tv-319cadb3fff5fb3e/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN)",Gulli Girl
+https://flussonic.mkpnet.ru/tv-d66fcf59f2f4c966/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN)",Карусель
+https://flussonic.mkpnet.ru/tv-132f51b35b47b897/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN)",Мультиландия
+https://flussonic.mkpnet.ru/tv-89530153f25733fe/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN)",СТС Kids
+https://flussonic.mkpnet.ru/tv-4af112c31b77e2a8/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN)",TiJi
+https://flussonic.mkpnet.ru/tv-3848dd8604a262e0/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN)",Малыш
+https://flussonic.mkpnet.ru/tv-66968914d630446e/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN)",KHL
+https://flussonic.mkpnet.ru/tv-e3d23fc7511b5fcd/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN)",Extreme Sports
+https://flussonic.mkpnet.ru/tv-1a9441fd32d63873/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN)",Матч ТВ
+https://flussonic.mkpnet.ru/tv-d3098523a4409835/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN)",Матч! Арена
+https://flussonic.mkpnet.ru/tv-9dda1dd9d740a9a4/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN)",Матч! Игра
+https://flussonic.mkpnet.ru/tv-1bfac9df3d938c1f/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN)",Матч! Премьер
+https://flussonic.mkpnet.ru/tv-ee3651e1e7ce5cbf/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN)",Матч! Страна
+https://flussonic.mkpnet.ru/tv-6db4f59c21aec361/video.m3u8
