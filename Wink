@@ -150,18 +150,6 @@ http://vgtrkregion-reg.cdnvideo.ru/vgtrk/5/russia1-hd/index.m3u8
 #EXTINF:-1 group-title="➕ Федеральные плюс",Россия 1 HD (+6)
 #EXTVLCOPT:http-user-agent=WINK/1.31.1 (AndroidTV/9) HlsWinkPlayer
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/6/russia1-hd/index.m3u8
-#EXTINF:-1 catchup="append" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="➕ Федеральные плюс",Россия 1 (+7)
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="➕ Федеральные плюс",Россия 1 (+7)
-#EXTVLCOPT:http-user-agent=WINK/1.31.1 (AndroidTV/9) HlsWinkPlayer
-http://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_ROSSIA1/variant.m3u8
-#EXTINF:-1 catchup="append" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="➕ Федеральные плюс",Россия 1 (+8)
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="➕ Федеральные плюс",Россия 1 (+8)
-#EXTVLCOPT:http-user-agent=WINK/1.31.1 (AndroidTV/9) HlsWinkPlayer
-http://s20441.cdn.ngenix.net/hls/CH_R49_OTT_DV_MGDN_ROSSIA1/variant.m3u8
-#EXTINF:-1 catchup="append" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="➕ Федеральные плюс",Россия 1 (+9)
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="➕ Федеральные плюс",Россия 1 (+9)
-#EXTVLCOPT:http-user-agent=WINK/1.31.1 (AndroidTV/9) HlsWinkPlayer
-https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_ROSSIA1/variant.m3u8
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="➕ Федеральные плюс",Россия 24
 #EXTVLCOPT:http-user-agent=WINK/1.31.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
