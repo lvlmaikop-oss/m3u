@@ -934,22 +934,6 @@ https://flussonic.mkpnet.ru/tv-ccf8c891702508a7/video.m3u8
 https://flussonic.mkpnet.ru/tv-2997fed720614567/video.m3u8
 #EXTINF:-1 group-title="Оргтехсервис", Русский Роман
 https://flussonic.mkpnet.ru/tv-c90a71c34cc779ac/video.m3u8
-#EXTINF:-1 group-title="Оргтехсервис",ТВ3
-https://flussonic.mkpnet.ru/tv-b9ddf7deb3d25757/video.m3u8
-#EXTINF:-1 group-title="Оргтехсервис",Пятница
-https://flussonic.mkpnet.ru/tv-7d5e5db805057e8f/video.m3u8
-#EXTINF:-1 group-title="Оргтехсервис",Че
-https://flussonic.mkpnet.ru/tv-cf5a26a180f402ef/video.m3u8
-#EXTINF:-1 group-title="Оргтехсервис",СТС
-https://flussonic.mkpnet.ru/tv-9cb92ea0862cd7b0/video.m3u8
-#EXTINF:-1 group-title="Оргтехсервис",СТС Love
-https://flussonic.mkpnet.ru/tv-b9f0884f9a81b8c6/video.m3u8
-#EXTINF:-1 group-title="Оргтехсервис",Суббота
-https://flussonic.mkpnet.ru/tv-2e0a7cc949958b60/video.m3u8
-#EXTINF:-1 group-title="Оргтехсервис",8 Канал
-https://flussonic.mkpnet.ru/tv-a308d006109b1c1f/video.m3u8
-#EXTINF:-1 group-title="Оргтехсервис",Домашний
-https://flussonic.mkpnet.ru/tv-b515ccce67923f8a/video.m3u8
 #EXTINF:-1 group-title="Оргтехсервис",Viasat Explore
 https://flussonic.mkpnet.ru/tv-7c57a4c3f9a896ea/video.m3u8
 #EXTINF:-1 group-title="Оргтехсервис",Viasat History
@@ -968,8 +952,6 @@ https://flussonic.mkpnet.ru/tv-a5fa84789fc4add5/video.m3u8
 https://flussonic.mkpnet.ru/tv-3cdc33d3606ba23f/video.m3u8
 #EXTINF:-1 group-title="Оргтехсервис",Живи Активно
 https://flussonic.mkpnet.ru/tv-fa810958620d77d8/video.m3u8
-#EXTINF:-1 group-title="Оргтехсервис",Здоровое ТВ
-https://flussonic.mkpnet.ru/tv-92fa9d648cab0f3f/video.m3u8
 #EXTINF:-1 group-title="Оргтехсервис",Мужской
 https://flussonic.mkpnet.ru/tv-55c94e838b306657/video.m3u8
 #EXTINF:-1 group-title="Оргтехсервис",Продвижение
@@ -980,28 +962,6 @@ https://flussonic.mkpnet.ru/tv-025f6f42ae5bcfc6/video.m3u8
 https://flussonic.mkpnet.ru/tv-297099e2d5179304/video.m3u8
 #EXTINF:-1 group-title="Оргтехсервис",Ю
 https://flussonic.mkpnet.ru/tv-3b21847ece4b1c19/video.m3u8
-#EXTINF:-1 group-title="Оргтехсервис",Солнце
-https://flussonic.mkpnet.ru/tv-ac43800065b9b1b7/video.m3u8
-#EXTINF:-1 group-title="Оргтехсервис",2x2
-https://flussonic.mkpnet.ru/tv-17540fb90079a865/video.m3u8
-#EXTINF:-1 group-title="Оргтехсервис",Мульт
-https://flussonic.mkpnet.ru/tv-c8b065a591077c26/video.m3u8
-#EXTINF:-1 group-title="Оргтехсервис",Бобёр
-https://flussonic.mkpnet.ru/tv-319cadb3fff5fb3e/video.m3u8
-#EXTINF:-1 group-title="Оргтехсервис",Gulli Girl
-https://flussonic.mkpnet.ru/tv-d66fcf59f2f4c966/video.m3u8
-#EXTINF:-1 group-title="Оргтехсервис",Карусель
-https://flussonic.mkpnet.ru/tv-132f51b35b47b897/video.m3u8
-#EXTINF:-1 group-title="Оргтехсервис",Мультиландия
-https://flussonic.mkpnet.ru/tv-89530153f25733fe/video.m3u8
-#EXTINF:-1 group-title="Оргтехсервис",СТС Kids
-https://flussonic.mkpnet.ru/tv-4af112c31b77e2a8/video.m3u8
-#EXTINF:-1 group-title="Оргтехсервис",TiJi
-https://flussonic.mkpnet.ru/tv-3848dd8604a262e0/video.m3u8
-#EXTINF:-1 group-title="Оргтехсервис",Малыш
-https://flussonic.mkpnet.ru/tv-66968914d630446e/video.m3u8
-#EXTINF:-1 group-title="Оргтехсервис",KHL
-https://flussonic.mkpnet.ru/tv-e3d23fc7511b5fcd/video.m3u8
 #EXTINF:-1 group-title="Оргтехсервис",Extreme Sports
 https://flussonic.mkpnet.ru/tv-1a9441fd32d63873/video.m3u8
 #EXTINF:-1 group-title="Оргтехсервис",Матч ТВ
@@ -1015,20 +975,6 @@ https://flussonic.mkpnet.ru/tv-ee3651e1e7ce5cbf/video.m3u8
 #EXTINF:-1 group-title="Оргтехсервис",Матч! Страна
 https://flussonic.mkpnet.ru/tv-6db4f59c21aec361/video.m3u8
 
-#EXTINF:-1 group-title="IZONE", Кухня ТВ
-http://46.32.176.50/kuxnyatv/index.m3u8
-#EXTINF:-1 group-title="IZONE", Домашние Животные
-http://46.32.176.50/domashniejivotnie/index.m3u8
-#EXTINF:-1 group-title="IZONE", Поехали!
-http://46.32.176.50/poexali/index.m3u8
-#EXTINF:-1 group-title="IZONE", Телекафе
-http://46.32.176.50/telekafe/index.m3u8
-#EXTINF:-1 group-title="IZONE", Живая Планета
-http://46.32.176.50/jivayaplaneta/index.m3u8
-#EXTINF:-1 group-title="IZONE", Авто24
-http://46.32.176.50/avto24/index.m3u8
-#EXTINF:-1 group-title="IZONE", Авто Плюс
-http://46.32.176.50/avtoplyus/index.m3u8
 #EXTINF:-1 group-title="IZONE", Наука
 http://46.32.176.50/nauka/index.m3u8
 #EXTINF:-1 group-title="IZONE", Моя планета
@@ -1143,38 +1089,8 @@ http://46.32.176.50/lubimoekino/index.m3u8
 http://46.32.176.50/foxrussia/index.m3u8
 #EXTINF:-1 group-title="IZONE", ТВ3
 http://46.32.176.50/tv3/index.m3u8
-#EXTINF:-1 group-title="IZONE", Че
-http://46.32.176.50/ce/index.m3u8
-#EXTINF:-1 group-title="IZONE", Euronews
-http://46.32.176.50/euronews/index.m3u8
-#EXTINF:-1 group-title="IZONE", Домашний
-http://46.32.176.50/domashniy/index.m3u8
 #EXTINF:-1 group-title="IZONE", Ностальгия
 http://46.32.176.50/nostalgiya/index.m3u8
-#EXTINF:-1 group-title="IZONE", Уникум
-http://46.32.176.50/detskiy/index.m3u8
-#EXTINF:-1 group-title="IZONE", Бобер
-http://46.32.176.50/bobertv/index.m3u8
-#EXTINF:-1 group-title="IZONE", Солнце
-http://46.32.176.50/solnce/index.m3u8
-#EXTINF:-1 group-title="IZONE", Суббота
-http://46.32.176.50/subbota/index.m3u8
-#EXTINF:-1 group-title="IZONE", Детский Мир HD
-http://46.32.176.50/detskiymir/index.m3u8
-#EXTINF:-1 group-title="IZONE", Мама
-http://46.32.176.50/mama/index.m3u8
-#EXTINF:-1 group-title="IZONE", Мульт
-http://46.32.176.50/mult/index.m3u8
-#EXTINF:-1 group-title="IZONE", Мульт HD
-http://46.32.176.50/MultHD/index.m3u8
-#EXTINF:-1 group-title="IZONE", 2x2
-http://46.32.176.50/2x2/index.m3u8
-#EXTINF:-1 group-title="IZONE", Ani
-http://46.32.176.50/anitv/index.m3u8
-#EXTINF:-1 group-title="IZONE", Карусель
-http://46.32.176.50/karusel/index.m3u8
-#EXTINF:-1 group-title="IZONE", Nick jr
-http://46.32.176.50/nickelodeonjunior/index.m3u8
 #EXTINF:-1 group-title="IZONE", Матч ТВ
 http://46.32.176.50/matchtv/index.m3u8
 #EXTINF:-1 group-title="IZONE", Матч HD
@@ -1188,8 +1104,5 @@ http://46.32.176.50/MatchArenaHD/index.m3u8
 #EXTINF:-1 group-title="IZONE", Viasat Sport
 http://46.32.176.50/viasatsport/index.m3u8
 #EXTINF:-1 group-title="IZONE", Бокс ТВ
-http://46.32.176.50/bokstv/index.m3u8
-#EXTINF:-1 group-title="IZONE", KHL
-http://46.32.176.50/kxltv/index.m3u8
 #EXTINF:-1 group-title="IZONE", Extreme Sports
 http://46.32.176.50/extremesport/index.m3u8
