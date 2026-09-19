@@ -142,14 +142,14 @@ https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_ROSSIA1_EKT/variant.m3u
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="➕ Федеральные плюс",Россия 1 (+3)
 #EXTVLCOPT:http-user-agent=WINK/1.31.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_OMSK_ROSSIA1_OMSKOBL/variant.m3u8
-#EXTINF:-1 group-title="➕ Федеральные плюс",Россия 1 HD (+4)
+#EXTINF:-1 group-title="➕ Федеральные плюс",Россия 1 (+4)
 #EXTVLCOPT:http-user-agent=WINK/1.31.1 (AndroidTV/9) HlsWinkPlayer
-http://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/russia1-hd/index.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_4/variant.m3u8
 #EXTINF:-1 group-title="➕ Федеральные плюс",Россия 1 HD (+5)
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/5/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="➕ Федеральные плюс",Россия 1 HD (+6)
+#EXTINF:-1 group-title="➕ Федеральные плюс",Россия 1 HD (+7)
 #EXTVLCOPT:http-user-agent=WINK/1.31.1 (AndroidTV/9) HlsWinkPlayer
-http://vgtrkregion-reg.cdnvideo.ru/vgtrk/6/russia1-hd/index.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_7/variant.m3u8
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="➕ Федеральные плюс",Россия 24
 #EXTVLCOPT:http-user-agent=WINK/1.31.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
@@ -895,7 +895,7 @@ http://dmi3y-tv6.ru/hls/blrus/CH_BELARUS5.m3u8
 http://dmi3y-tv6.ru/hls/blrus/CH_1INFORMATSYONNYHD.m3u8
 #EXTINF:-1 group-title="Беларусь",Первый информационный
 http://dmi3y-tv6.ru/hls/blrus/CH_1INFORMATSYONNY.m3u8
-#EXTINF:-1 group-title="Беларусь",СТВ HD720
+#EXTINF:-1 group-title="Беларусь",СТВ
 http://dmi3y-tv6.ru/hls/blrus/CH_CTBHD720.m3u8
 
 #EXTINF:-1 group-title="Оргтехсервис",TV1000
