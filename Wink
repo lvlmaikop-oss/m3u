@@ -898,7 +898,7 @@ http://dmi3y-tv6.ru/hls/blrus/CH_CTBHD720.m3u8
 
 #EXTINF:-1 group-title="Оргтехсервис",TV1000
 https://flussonic.mkpnet.ru/tv-aab84159a39fbe84/video.m3u8
-#EXTINF:-1 group-title="Оргтехсервис",TV1000 кино
+#EXTINF:-1 group-title="Оргтехсервис",TV1000 Русское кино
 https://flussonic.mkpnet.ru/tv-7510472b0133abb2/video.m3u8
 #EXTINF:-1 group-title="Оргтехсервис",TV1000 Action
 https://flussonic.mkpnet.ru/tv-0991ea2ac6292de8/video.m3u8
